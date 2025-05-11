@@ -2772,6 +2772,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/sandstone_wall_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-05-11 04:19:05 +0000"
+    },
+    "done": true
+  },
   "biomeswevegone:recipes/transportation/jacaranda_chest_boat": {
     "criteria": {
       "has_boat": "2025-05-11 01:44:53 +0000"
@@ -2787,6 +2793,12 @@
   "naturalist:recipes/food/cooked_bass": {
     "criteria": {
       "has_bass": "2025-05-11 02:36:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone": {
+    "criteria": {
+      "has_sandstone": "2025-05-11 04:19:05 +0000"
     },
     "done": true
   },
@@ -2847,6 +2859,12 @@
   "minecraft:recipes/transportation/jungle_chest_boat": {
     "criteria": {
       "has_boat": "2025-05-11 01:44:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/spyglass": {
+    "criteria": {
+      "has_amethyst_shard": "2025-05-11 04:11:10 +0000"
     },
     "done": true
   },
@@ -2964,6 +2982,12 @@
     },
     "done": true
   },
+  "bosses_of_mass_destruction:recipes/void_lily": {
+    "criteria": {
+      "has_amethyst_shard": "2025-05-11 04:11:10 +0000"
+    },
+    "done": true
+  },
   "biomeswevegone:recipes/decorations/palm_fence": {
     "criteria": {
       "has_planks": "2025-05-11 01:44:47 +0000"
@@ -2994,6 +3018,24 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/sandstone_stairs": {
+    "criteria": {
+      "has_sandstone": "2025-05-11 04:19:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/calibrated_sculk_sensor": {
+    "criteria": {
+      "has_amethyst_shard": "2025-05-11 04:11:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/tinted_glass": {
+    "criteria": {
+      "has_amethyst_shard": "2025-05-11 04:11:10 +0000"
+    },
+    "done": true
+  },
   "mcwbridges:recipes/balustrade_mossy_cobblestone_bridge": {
     "criteria": {
       "has_planks": "2025-05-11 02:19:51 +0000"
@@ -3003,6 +3045,12 @@
   "biomeswevegone:recipes/transportation/ironwood_chest_boat": {
     "criteria": {
       "has_boat": "2025-05-11 01:44:53 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/sandstone_bridge_pier": {
+    "criteria": {
+      "has_planks": "2025-05-11 04:19:05 +0000"
     },
     "done": true
   },
@@ -3030,9 +3078,21 @@
     },
     "done": true
   },
+  "yungscavebiomes:recipes/building_blocks/layered_sandstone": {
+    "criteria": {
+      "has_sandstone": "2025-05-11 04:19:05 +0000"
+    },
+    "done": true
+  },
   "overweight_farming:recipes/apply_violent_fullmetal_directly_to_compost": {
     "criteria": {
       "has_rotten_flesh": "2025-05-11 01:43:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-05-11 04:19:05 +0000"
     },
     "done": true
   },
@@ -3051,6 +3111,18 @@
   "minecraft:recipes/redstone/jungle_trapdoor": {
     "criteria": {
       "has_planks": "2025-05-11 01:44:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_sandstone_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-05-11 04:19:05 +0000"
+    },
+    "done": true
+  },
+  "species:recipes/bone_block_from_bone_bark": {
+    "criteria": {
+      "has_item": "2025-05-11 04:11:11 +0000"
     },
     "done": true
   },
@@ -3090,9 +3162,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cut_sandstone_slab_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-05-11 04:19:05 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/decorations/oak_branch_from_oak_log": {
     "criteria": {
       "has_log": "2025-05-11 02:04:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_slab_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-05-11 04:19:05 +0000"
     },
     "done": true
   },
@@ -3135,6 +3219,12 @@
   "minecraft:recipes/decorations/jungle_fence": {
     "criteria": {
       "has_planks": "2025-05-11 01:44:20 +0000"
+    },
+    "done": true
+  },
+  "yungscavebiomes:recipes/building_blocks/layered_sandstone_from_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-05-11 04:19:05 +0000"
     },
     "done": true
   },
@@ -3207,6 +3297,12 @@
   "minecraft:recipes/misc/firework_rocket_simple": {
     "criteria": {
       "has_gunpowder": "2025-05-11 02:33:41 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/sandstone_bridge": {
+    "criteria": {
+      "has_planks": "2025-05-11 04:19:05 +0000"
     },
     "done": true
   },
@@ -3300,6 +3396,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/sandstone_slab": {
+    "criteria": {
+      "has_sandstone": "2025-05-11 04:19:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/obtain_armor": {
     "criteria": {
       "iron_helmet": "2025-05-11 03:33:56 +0000"
@@ -3342,15 +3444,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_sandstone": {
+    "criteria": {
+      "has_sandstone": "2025-05-11 04:19:05 +0000"
+    },
+    "done": true
+  },
   "biomeswevegone:recipes/transportation/cika_chest_boat": {
     "criteria": {
       "has_boat": "2025-05-11 01:44:53 +0000"
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/sandstone": {
+    "criteria": {
+      "has_sandstone": "2025-05-11 04:19:05 +0000"
+    },
+    "done": true
+  },
   "hybrid-aquatic:recipes/tools/fishing_net": {
     "criteria": {
       "string": "2025-05-11 02:13:14 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/balustrade_sandstone_bridge": {
+    "criteria": {
+      "has_planks": "2025-05-11 04:19:05 +0000"
     },
     "done": true
   },
@@ -3382,6 +3502,7 @@
     "criteria": {
       "biomeswevegone:crag_gardens": "2025-05-11 01:46:54 +0000",
       "biomeswevegone:enchanted_tangle": "2025-05-11 01:58:40 +0000",
+      "biomeswevegone:red_rock_valley": "2025-05-11 04:10:49 +0000",
       "biomeswevegone:firecracker_chaparral": "2025-05-11 02:06:23 +0000",
       "biomeswevegone:lush_stacks": "2025-05-11 01:45:50 +0000",
       "biomeswevegone:ironwood_gour": "2025-05-11 02:03:27 +0000",
@@ -3417,6 +3538,18 @@
   "supplementaries:recipes/sconce": {
     "criteria": {
       "has_torch": "2025-05-11 01:43:02 +0000"
+    },
+    "done": true
+  },
+  "species:recipes/bone_block_from_bone_vertebra": {
+    "criteria": {
+      "has_item": "2025-05-11 04:11:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_stairs_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-05-11 04:19:05 +0000"
     },
     "done": true
   },
@@ -3597,6 +3730,12 @@
   "mcwbridges:recipes/jungle_rail_bridge": {
     "criteria": {
       "has_planks": "2025-05-11 01:44:20 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/crystal_display": {
+    "criteria": {
+      "has_amethyst_shard": "2025-05-11 04:11:10 +0000"
     },
     "done": true
   },
@@ -3791,6 +3930,18 @@
   "minecraft:recipes/redstone/jungle_pressure_plate": {
     "criteria": {
       "has_planks": "2025-05-11 01:44:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/amethyst_block": {
+    "criteria": {
+      "has_amethyst_shard": "2025-05-11 04:11:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/sandstone_wall": {
+    "criteria": {
+      "has_sandstone": "2025-05-11 04:19:05 +0000"
     },
     "done": true
   },
