@@ -197,12 +197,14 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:bamboo_jungle": "2025-05-07 03:46:57 +0000",
+      "minecraft:badlands": "2025-05-11 02:25:07 +0000",
       "minecraft:beach": "2025-05-07 03:17:11 +0000",
       "minecraft:sparse_jungle": "2025-05-07 03:44:52 +0000",
       "minecraft:river": "2025-05-07 03:36:58 +0000",
       "minecraft:lukewarm_ocean": "2025-05-11 01:45:32 +0000",
       "minecraft:stony_shore": "2025-05-07 20:10:06 +0000",
       "minecraft:forest": "2025-05-07 03:13:47 +0000",
+      "minecraft:desert": "2025-05-11 02:25:08 +0000",
       "minecraft:jungle": "2025-05-07 20:10:04 +0000",
       "minecraft:savanna": "2025-05-07 03:35:14 +0000",
       "minecraft:plains": "2025-05-07 03:44:33 +0000"
@@ -2735,6 +2737,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/crank": {
+    "criteria": {
+      "has_cobblestone_slab": "2025-05-11 02:19:52 +0000"
+    },
+    "done": true
+  },
   "biomeswevegone:recipes/transportation/palm_chest_boat": {
     "criteria": {
       "has_boat": "2025-05-11 01:44:53 +0000"
@@ -2771,15 +2779,33 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/cactus": {
+    "criteria": {
+      "has_cactus": "2025-05-11 02:25:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/leather_chestplate": {
     "criteria": {
       "has_leather": "2025-05-11 02:13:22 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/bamboo_planks": {
+    "criteria": {
+      "has_logs": "2025-05-11 02:21:56 +0000"
+    },
+    "done": true
+  },
   "biomeswevegone:recipes/transportation/ebony_chest_boat": {
     "criteria": {
       "has_boat": "2025-05-11 01:44:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-05-11 02:19:51 +0000"
     },
     "done": true
   },
@@ -2819,6 +2845,12 @@
     },
     "done": true
   },
+  "mcwbridges:recipes/mossy_cobblestone_bridge_pier": {
+    "criteria": {
+      "has_planks": "2025-05-11 02:19:51 +0000"
+    },
+    "done": true
+  },
   "stellarity:dragons_den/cursed_tome/items/unlock_sabrewing": {
     "criteria": {
       "requirement": "2025-05-11 02:14:42 +0000"
@@ -2834,6 +2866,18 @@
   "minecraft:recipes/transportation/oak_chest_boat": {
     "criteria": {
       "has_boat": "2025-05-11 01:44:53 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/mossy_stone_from_blasting_mossy_cobblestone": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-05-11 02:19:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-05-11 02:19:51 +0000"
     },
     "done": true
   },
@@ -2864,6 +2908,24 @@
   "hybrid-aquatic:boat": {
     "criteria": {
       "has_boat": "2025-05-11 01:44:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-05-11 02:19:51 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/sign_post_spruce": {
+    "criteria": {
+      "has_spruce_sign": "2025-05-11 02:19:52 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/balustrade_mossy_cobblestone_bridge": {
+    "criteria": {
+      "has_planks": "2025-05-11 02:19:51 +0000"
     },
     "done": true
   },
@@ -2981,6 +3043,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-05-11 02:19:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/dispenser": {
     "criteria": {
       "has_bow": "2025-05-11 02:14:42 +0000"
@@ -3065,6 +3133,12 @@
     },
     "done": true
   },
+  "regions_unexplored:got_wood": {
+    "criteria": {
+      "bamboo_log": "2025-05-11 02:21:56 +0000"
+    },
+    "done": false
+  },
   "hybrid-aquatic:recipes/combat/diving_leggings": {
     "criteria": {
       "has_leather": "2025-05-11 02:13:22 +0000"
@@ -3080,6 +3154,12 @@
   "minecraft:recipes/building_blocks/jungle_slab": {
     "criteria": {
       "has_planks": "2025-05-11 01:44:20 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/mossy_stone_from_smelting_mossy_cobblestone": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-05-11 02:19:51 +0000"
     },
     "done": true
   },
@@ -3257,6 +3337,18 @@
     },
     "done": true
   },
+  "supplementaries:recipes/decorations/sign_post_spruce": {
+    "criteria": {
+      "has_the_recipe": "2025-05-11 02:19:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/green_dye": {
+    "criteria": {
+      "has_cactus": "2025-05-11 02:25:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/jungle_button": {
     "criteria": {
       "has_planks": "2025-05-11 01:44:20 +0000"
@@ -3317,9 +3409,21 @@
     },
     "done": true
   },
+  "mcwbridges:recipes/mossy_cobblestone_bridge": {
+    "criteria": {
+      "has_planks": "2025-05-11 02:19:51 +0000"
+    },
+    "done": true
+  },
   "biomeswevegone:recipes/transportation/blue_enchanted_chest_boat": {
     "criteria": {
       "has_boat": "2025-05-11 01:44:53 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/mossy_stone_brick_bridge": {
+    "criteria": {
+      "has_planks": "2025-05-11 02:19:51 +0000"
     },
     "done": true
   },
@@ -3404,8 +3508,12 @@
   "regions_unexplored:regions_explored": {
     "criteria": {
       "mauve_hills": "2025-05-11 02:07:51 +0000",
+      "dry_bushland": "2025-05-11 02:25:00 +0000",
       "grassy_beach": "2025-05-11 01:46:32 +0000",
       "rocky_meadow": "2025-05-11 02:07:49 +0000",
+      "tropical_river": "2025-05-11 02:24:46 +0000",
+      "magnolia_highlands": "2025-05-11 02:21:35 +0000",
+      "joshua_desert": "2025-05-11 02:23:28 +0000",
       "bamboo_forest": "2025-05-11 02:10:33 +0000",
       "redwoods": "2025-05-11 01:46:50 +0000"
     },
@@ -3423,9 +3531,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-05-11 02:19:51 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/transportation/maple_chest_boat": {
     "criteria": {
       "has_boat": "2025-05-11 01:44:53 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/mossy_cobblestone_bridge_stair": {
+    "criteria": {
+      "has_planks": "2025-05-11 02:19:51 +0000"
     },
     "done": true
   },
@@ -3456,8 +3576,12 @@
   "regions_unexplored:pioneer": {
     "criteria": {
       "mauve_hills": "2025-05-11 02:07:51 +0000",
+      "dry_bushland": "2025-05-11 02:25:00 +0000",
       "grassy_beach": "2025-05-11 01:46:32 +0000",
       "rocky_meadow": "2025-05-11 02:07:49 +0000",
+      "tropical_river": "2025-05-11 02:24:46 +0000",
+      "magnolia_highlands": "2025-05-11 02:21:35 +0000",
+      "joshua_desert": "2025-05-11 02:23:28 +0000",
       "bamboo_forest": "2025-05-11 02:10:33 +0000",
       "redwoods": "2025-05-11 01:46:50 +0000"
     },
@@ -3484,6 +3608,18 @@
   "biomeswevegone:recipes/decorations/palm_crafting_table": {
     "criteria": {
       "has_palm_planks": "2025-05-11 01:44:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-05-11 02:19:51 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/mossy_stone_bridge_pier": {
+    "criteria": {
+      "has_planks": "2025-05-11 02:19:51 +0000"
     },
     "done": true
   },

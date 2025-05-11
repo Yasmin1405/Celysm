@@ -197,12 +197,14 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:bamboo_jungle": "2025-05-07 03:46:55 +0000",
+      "minecraft:badlands": "2025-05-11 02:25:35 +0000",
       "minecraft:beach": "2025-05-07 03:28:54 +0000",
       "minecraft:sparse_jungle": "2025-05-07 03:44:40 +0000",
       "minecraft:lukewarm_ocean": "2025-05-07 03:29:13 +0000",
       "minecraft:river": "2025-05-07 03:36:03 +0000",
       "minecraft:stony_shore": "2025-05-11 01:56:55 +0000",
       "minecraft:forest": "2025-05-07 03:12:15 +0000",
+      "minecraft:desert": "2025-05-11 02:25:07 +0000",
       "minecraft:jungle": "2025-05-11 01:57:51 +0000",
       "minecraft:deep_lukewarm_ocean": "2025-05-11 01:54:24 +0000",
       "minecraft:savanna": "2025-05-07 03:28:35 +0000",
@@ -2305,6 +2307,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:zombie": "2025-05-11 02:23:58 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/transportation/mangrove_chest_boat": {
     "criteria": {
       "has_boat": "2025-05-11 01:44:59 +0000"
@@ -2448,6 +2456,12 @@
       "has_boat": "2025-05-11 01:44:59 +0000"
     },
     "done": true
+  },
+  "regions_unexplored:got_wood": {
+    "criteria": {
+      "bamboo_log": "2025-05-11 02:22:08 +0000"
+    },
+    "done": false
   },
   "regions_unexplored:recipes/transportation/magnolia_chest_boat": {
     "criteria": {
@@ -2657,8 +2671,12 @@
   "regions_unexplored:regions_explored": {
     "criteria": {
       "mauve_hills": "2025-05-11 02:07:49 +0000",
+      "dry_bushland": "2025-05-11 02:24:57 +0000",
       "grassy_beach": "2025-05-11 01:46:32 +0000",
       "rocky_meadow": "2025-05-11 02:07:46 +0000",
+      "tropical_river": "2025-05-11 02:24:49 +0000",
+      "magnolia_highlands": "2025-05-11 02:21:31 +0000",
+      "joshua_desert": "2025-05-11 02:23:28 +0000",
       "bamboo_forest": "2025-05-11 02:10:33 +0000",
       "redwoods": "2025-05-11 01:46:50 +0000"
     },
@@ -2703,8 +2721,12 @@
   "regions_unexplored:pioneer": {
     "criteria": {
       "mauve_hills": "2025-05-11 02:07:49 +0000",
+      "dry_bushland": "2025-05-11 02:24:57 +0000",
       "grassy_beach": "2025-05-11 01:46:32 +0000",
       "rocky_meadow": "2025-05-11 02:07:46 +0000",
+      "tropical_river": "2025-05-11 02:24:49 +0000",
+      "magnolia_highlands": "2025-05-11 02:21:31 +0000",
+      "joshua_desert": "2025-05-11 02:23:28 +0000",
       "bamboo_forest": "2025-05-11 02:10:33 +0000",
       "redwoods": "2025-05-11 01:46:50 +0000"
     },
@@ -2713,6 +2735,12 @@
   "minecraft:recipes/building_blocks/white_wool_from_string": {
     "criteria": {
       "has_string": "2025-05-11 02:13:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:zombie": "2025-05-11 02:23:58 +0000"
     },
     "done": true
   },
