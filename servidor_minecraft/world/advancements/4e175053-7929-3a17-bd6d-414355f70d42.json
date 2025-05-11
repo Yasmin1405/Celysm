@@ -2721,6 +2721,12 @@
     },
     "done": true
   },
+  "iammusicplayer:recipes/misc/music_manager": {
+    "criteria": {
+      "has_diamond": "2025-05-11 04:56:30 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/transportation/blackwood_chest_boat": {
     "criteria": {
       "has_boat": "2025-05-11 01:44:53 +0000"
@@ -2763,6 +2769,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/diamond_sword": {
+    "criteria": {
+      "has_diamond": "2025-05-11 04:56:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/jukebox": {
+    "criteria": {
+      "has_diamond": "2025-05-11 04:56:30 +0000"
+    },
+    "done": true
+  },
   "biomeswevegone:recipes/transportation/pine_chest_boat": {
     "criteria": {
       "has_boat": "2025-05-11 01:44:53 +0000"
@@ -2772,6 +2790,12 @@
   "regions_unexplored:recipes/transportation/larch_chest_boat": {
     "criteria": {
       "has_boat": "2025-05-11 01:44:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_chestplate": {
+    "criteria": {
+      "has_diamond": "2025-05-11 04:56:30 +0000"
     },
     "done": true
   },
@@ -2895,6 +2919,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/diamond_pickaxe": {
+    "criteria": {
+      "has_diamond": "2025-05-11 04:56:30 +0000"
+    },
+    "done": true
+  },
   "yungscavebiomes:recipes/building_blocks/layered_red_sandstone_from_stonecutting": {
     "criteria": {
       "has_sandstone": "2025-05-11 02:33:31 +0000"
@@ -2997,6 +3027,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/diamond_hoe": {
+    "criteria": {
+      "has_diamond": "2025-05-11 04:56:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_shovel": {
+    "criteria": {
+      "has_diamond": "2025-05-11 04:56:30 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/building_blocks/mossy_stone_from_blasting_mossy_cobblestone": {
     "criteria": {
       "has_mossy_cobblestone": "2025-05-11 02:19:51 +0000"
@@ -3078,6 +3120,12 @@
   "regions_unexplored:recipes/building_blocks/polished_chalk": {
     "criteria": {
       "has_chalk": "2025-05-11 04:26:46 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/diamond_tier_upgrade": {
+    "criteria": {
+      "has_diamond": "2025-05-11 04:56:30 +0000"
     },
     "done": true
   },
@@ -3231,6 +3279,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/diamond_helmet": {
+    "criteria": {
+      "has_diamond": "2025-05-11 04:56:30 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/transportation/redwood_chest_boat": {
     "criteria": {
       "has_boat": "2025-05-11 01:44:53 +0000"
@@ -3321,6 +3375,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/diamond": {
+    "criteria": {
+      "has_diamond": "2025-05-11 04:56:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cyan_terracotta": {
     "criteria": {
       "has_terracotta": "2025-05-11 04:30:47 +0000"
@@ -3381,6 +3441,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/diamond_block": {
+    "criteria": {
+      "has_diamond": "2025-05-11 04:56:30 +0000"
+    },
+    "done": true
+  },
   "mysticsbiomes:recipes/transportation/strawberry_chest_boat": {
     "criteria": {
       "has_boat": "2025-05-11 01:44:53 +0000"
@@ -3414,6 +3480,12 @@
   "supplementaries:recipes/sack": {
     "criteria": {
       "has_string": "2025-05-11 02:13:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2025-05-11 04:56:30 +0000"
     },
     "done": true
   },
@@ -3483,6 +3555,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/combat/diamond_knife": {
+    "criteria": {
+      "has_diamond": "2025-05-11 04:56:30 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/building_blocks/chalk_pillar_from_chalk_stonecutting": {
     "criteria": {
       "has_chalk": "2025-05-11 04:26:46 +0000"
@@ -3534,6 +3612,12 @@
   "minecraft:story/obtain_armor": {
     "criteria": {
       "iron_helmet": "2025-05-11 03:33:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_leggings": {
+    "criteria": {
+      "has_diamond": "2025-05-11 04:56:30 +0000"
     },
     "done": true
   },
@@ -3654,6 +3738,7 @@
       "biomeswevegone:firecracker_chaparral": "2025-05-11 02:06:23 +0000",
       "biomeswevegone:lush_stacks": "2025-05-11 01:45:50 +0000",
       "biomeswevegone:ironwood_gour": "2025-05-11 02:03:27 +0000",
+      "biomeswevegone:orchard": "2025-05-11 04:58:56 +0000",
       "biomeswevegone:amaranth_grassland": "2025-05-11 01:49:03 +0000",
       "biomeswevegone:dead_sea": "2025-05-11 04:23:17 +0000",
       "biomeswevegone:rainbow_beach": "2025-05-11 01:48:32 +0000"
@@ -3843,6 +3928,12 @@
   "minecraft:recipes/redstone/jungle_fence_gate": {
     "criteria": {
       "has_planks": "2025-05-11 01:44:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_boots": {
+    "criteria": {
+      "has_diamond": "2025-05-11 04:56:30 +0000"
     },
     "done": true
   },
@@ -4036,6 +4127,12 @@
     },
     "done": true
   },
+  "dungeons_arise:find_bathhouse": {
+    "criteria": {
+      "location0": "2025-05-11 04:53:12 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/building_blocks/chalk_slab": {
     "criteria": {
       "has_chalk": "2025-05-11 04:26:46 +0000"
@@ -4205,6 +4302,12 @@
   "minecraft:recipes/decorations/loom": {
     "criteria": {
       "has_string": "2025-05-11 02:13:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_axe": {
+    "criteria": {
+      "has_diamond": "2025-05-11 04:56:30 +0000"
     },
     "done": true
   },

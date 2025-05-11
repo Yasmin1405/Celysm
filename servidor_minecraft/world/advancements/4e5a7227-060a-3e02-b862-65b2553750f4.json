@@ -2353,6 +2353,12 @@
     },
     "done": true
   },
+  "farmersdelight:main/get_fd_seed": {
+    "criteria": {
+      "onion": "2025-05-11 04:57:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/blue_concrete_powder": {
     "criteria": {
       "has_sand": "2025-05-11 03:12:26 +0000"
@@ -2677,6 +2683,12 @@
   "minecraft:recipes/building_blocks/magenta_concrete_powder": {
     "criteria": {
       "has_sand": "2025-05-11 03:12:26 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/dumplings": {
+    "criteria": {
+      "has_any_ingredient": "2025-05-11 04:57:14 +0000"
     },
     "done": true
   },
@@ -3059,6 +3071,7 @@
       "biomeswevegone:firecracker_chaparral": "2025-05-11 02:07:24 +0000",
       "biomeswevegone:lush_stacks": "2025-05-11 01:45:49 +0000",
       "biomeswevegone:ironwood_gour": "2025-05-11 02:03:24 +0000",
+      "biomeswevegone:orchard": "2025-05-11 04:58:56 +0000",
       "biomeswevegone:amaranth_grassland": "2025-05-11 01:49:03 +0000",
       "biomeswevegone:dead_sea": "2025-05-11 04:23:17 +0000",
       "biomeswevegone:tropical_rainforest": "2025-05-11 01:52:15 +0000",
@@ -3117,6 +3130,12 @@
   "biomeswevegone:recipes/building_blocks/purple_sand": {
     "criteria": {
       "has_sand": "2025-05-11 03:12:26 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/barbecue_stick": {
+    "criteria": {
+      "has_onion": "2025-05-11 04:57:14 +0000"
     },
     "done": true
   },
@@ -3364,6 +3383,12 @@
     },
     "done": true
   },
+  "dungeons_arise:find_bathhouse": {
+    "criteria": {
+      "location0": "2025-05-11 04:53:05 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/decorations/joshua_shrub": {
     "criteria": {
       "has_joshua_sapling": "2025-05-11 03:16:02 +0000"
@@ -3484,6 +3509,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/ratatouille": {
+    "criteria": {
+      "has_any_ingredient": "2025-05-11 04:57:14 +0000"
+    },
+    "done": true
+  },
   "dungeons_arise:find_bandit_towers": {
     "criteria": {
       "location0": "2025-05-11 02:43:17 +0000"
@@ -3573,6 +3604,12 @@
   "mcwbridges:recipes/mossy_stone_bridge_pier": {
     "criteria": {
       "has_planks": "2025-05-11 03:18:37 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/building_blocks/onion_crate": {
+    "criteria": {
+      "has_onion": "2025-05-11 04:57:14 +0000"
     },
     "done": true
   },
