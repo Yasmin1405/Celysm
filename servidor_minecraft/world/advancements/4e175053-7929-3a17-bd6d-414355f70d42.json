@@ -2746,6 +2746,18 @@
     },
     "done": true
   },
+  "overweight_farming:recipes/overweight_golden_apple_block": {
+    "criteria": {
+      "has_gold_block": "2025-05-11 05:20:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_gold_block": {
+    "criteria": {
+      "has_gold_block": "2025-05-11 05:20:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/deflect_arrow": {
     "criteria": {
       "deflected_projectile": "2025-05-11 02:15:11 +0000"
@@ -3268,6 +3280,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/redstone_illuminator": {
+    "criteria": {
+      "has_sea_lantern": "2025-05-11 05:18:11 +0000"
+    },
+    "done": true
+  },
   "species:recipes/bone_block_from_bone_bark": {
     "criteria": {
       "has_item": "2025-05-11 04:11:11 +0000"
@@ -3670,6 +3688,12 @@
     },
     "done": true
   },
+  "mostructures:villager_tower": {
+    "criteria": {
+      "villager_tower": "2025-05-11 05:12:18 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/boat_jar": {
     "criteria": {
       "minecraft:boats": "2025-05-11 01:44:53 +0000"
@@ -3780,6 +3804,7 @@
       "biomeswevegone:prairie": "2025-05-11 05:06:37 +0000",
       "biomeswevegone:aspen_boreal": "2025-05-11 05:09:25 +0000",
       "biomeswevegone:dead_sea": "2025-05-11 04:23:17 +0000",
+      "biomeswevegone:allium_shrubland": "2025-05-11 05:11:59 +0000",
       "biomeswevegone:rainbow_beach": "2025-05-11 01:48:32 +0000"
     },
     "done": false

@@ -2997,6 +2997,12 @@
     },
     "done": true
   },
+  "mostructures:villager_tower": {
+    "criteria": {
+      "villager_tower": "2025-05-11 05:12:17 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/boat_jar": {
     "criteria": {
       "minecraft:boats": "2025-05-11 01:44:59 +0000"
@@ -3113,6 +3119,7 @@
       "biomeswevegone:prairie": "2025-05-11 05:06:35 +0000",
       "biomeswevegone:aspen_boreal": "2025-05-11 05:09:21 +0000",
       "biomeswevegone:dead_sea": "2025-05-11 04:23:17 +0000",
+      "biomeswevegone:allium_shrubland": "2025-05-11 05:11:54 +0000",
       "biomeswevegone:tropical_rainforest": "2025-05-11 01:52:15 +0000",
       "biomeswevegone:rainbow_beach": "2025-05-11 01:48:22 +0000"
     },
