@@ -197,6 +197,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:bamboo_jungle": "2025-05-07 03:46:57 +0000",
+      "minecraft:wooded_badlands": "2025-05-11 02:42:20 +0000",
       "minecraft:badlands": "2025-05-11 02:25:07 +0000",
       "minecraft:beach": "2025-05-07 03:17:11 +0000",
       "minecraft:sparse_jungle": "2025-05-07 03:44:52 +0000",
@@ -712,6 +713,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:pillager": "2025-05-11 01:53:38 +0000",
+      "minecraft:skeleton": "2025-05-11 02:42:40 +0000",
       "minecraft:husk": "2025-05-11 02:04:24 +0000",
       "minecraft:zombie": "2025-05-07 03:26:53 +0000"
     },
@@ -2773,6 +2775,24 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/creeper": {
+    "criteria": {
+      "has_gunpowder": "2025-05-11 02:33:41 +0000"
+    },
+    "done": true
+  },
+  "naturalist:recipes/food/cooked_bass": {
+    "criteria": {
+      "has_bass": "2025-05-11 02:36:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_red_sandstone": {
+    "criteria": {
+      "has_red_sandstone": "2025-05-11 02:33:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/spruce_chest_boat": {
     "criteria": {
       "has_boat": "2025-05-11 01:44:53 +0000"
@@ -2788,6 +2808,12 @@
   "minecraft:recipes/combat/leather_chestplate": {
     "criteria": {
       "has_leather": "2025-05-11 02:13:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_red_sandstone": {
+    "criteria": {
+      "has_red_sandstone": "2025-05-11 02:33:31 +0000"
     },
     "done": true
   },
@@ -2815,6 +2841,12 @@
     },
     "done": true
   },
+  "yungscavebiomes:recipes/building_blocks/layered_red_sandstone_from_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-05-11 02:33:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/mangrove_chest_boat": {
     "criteria": {
       "has_boat": "2025-05-11 01:44:53 +0000"
@@ -2824,6 +2856,12 @@
   "minecraft:recipes/redstone/tripwire_hook": {
     "criteria": {
       "has_string": "2025-05-11 02:13:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_red_sandstone": {
+    "criteria": {
+      "has_red_sandstone": "2025-05-11 02:33:31 +0000"
     },
     "done": true
   },
@@ -2839,6 +2877,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/red_sandstone_wall_from_red_sandstone_stonecutting": {
+    "criteria": {
+      "has_red_sandstone": "2025-05-11 02:33:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/candle": {
     "criteria": {
       "has_string": "2025-05-11 02:13:14 +0000"
@@ -2851,9 +2895,21 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/building_blocks/ash": {
+    "criteria": {
+      "has_gunpowder": "2025-05-11 02:33:41 +0000"
+    },
+    "done": true
+  },
   "stellarity:dragons_den/cursed_tome/items/unlock_sabrewing": {
     "criteria": {
       "requirement": "2025-05-11 02:14:42 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/red_sandstone_bridge_pier": {
+    "criteria": {
+      "has_planks": "2025-05-11 02:33:31 +0000"
     },
     "done": true
   },
@@ -2872,6 +2928,12 @@
   "regions_unexplored:recipes/building_blocks/mossy_stone_from_blasting_mossy_cobblestone": {
     "criteria": {
       "has_mossy_cobblestone": "2025-05-11 02:19:51 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/balustrade_orange_sandstone_bridge": {
+    "criteria": {
+      "has_planks": "2025-05-11 02:33:31 +0000"
     },
     "done": true
   },
@@ -3055,6 +3117,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cut_red_sandstone_slab_from_red_sandstone_stonecutting": {
+    "criteria": {
+      "has_red_sandstone": "2025-05-11 02:33:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/jungle_fence": {
     "criteria": {
       "has_planks": "2025-05-11 01:44:20 +0000"
@@ -3067,6 +3135,12 @@
     },
     "done": true
   },
+  "yungscavebiomes:recipes/building_blocks/layered_red_sandstone": {
+    "criteria": {
+      "has_sandstone": "2025-05-11 02:33:31 +0000"
+    },
+    "done": true
+  },
   "biomeswevegone:biomeswevegone/adventure/root": {
     "criteria": {
       "biomeswevegone:lush_stacks": "2025-05-11 01:45:50 +0000"
@@ -3076,6 +3150,12 @@
   "biomeswevegone:recipes/decorations/palm_hanging_sign": {
     "criteria": {
       "has_stripped_logs": "2025-05-11 01:44:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mud_bricks": {
+    "criteria": {
+      "has_packed_mud": "2025-05-11 02:38:27 +0000"
     },
     "done": true
   },
@@ -3115,6 +3195,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/firework_rocket_simple": {
+    "criteria": {
+      "has_gunpowder": "2025-05-11 02:33:41 +0000"
+    },
+    "done": true
+  },
   "biomeswevegone:recipes/building_blocks/palm_planks": {
     "criteria": {
       "has_log": "2025-05-11 01:44:35 +0000"
@@ -3138,6 +3224,12 @@
       "bamboo_log": "2025-05-11 02:21:56 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/decorations/red_sandstone_wall": {
+    "criteria": {
+      "has_red_sandstone": "2025-05-11 02:33:31 +0000"
+    },
+    "done": true
   },
   "hybrid-aquatic:recipes/combat/diving_leggings": {
     "criteria": {
@@ -3361,6 +3453,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/red_sandstone_slab": {
+    "criteria": {
+      "has_red_sandstone": "2025-05-11 02:33:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/birch_chest_boat": {
     "criteria": {
       "has_boat": "2025-05-11 01:44:53 +0000"
@@ -3391,6 +3489,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/blue_glazed_terracotta": {
+    "criteria": {
+      "has_blue_terracotta": "2025-05-11 02:33:31 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/transportation/joshua_chest_boat": {
     "criteria": {
       "has_boat": "2025-05-11 01:44:53 +0000"
@@ -3415,15 +3519,39 @@
     },
     "done": true
   },
+  "rottencreatures:recipes/redstone/tnt_barrel": {
+    "criteria": {
+      "has_gunpowder": "2025-05-11 02:33:41 +0000"
+    },
+    "done": true
+  },
   "biomeswevegone:recipes/transportation/blue_enchanted_chest_boat": {
     "criteria": {
       "has_boat": "2025-05-11 01:44:53 +0000"
     },
     "done": true
   },
+  "yungscavebiomes:recipes/building_blocks/brittle_red_sandstone": {
+    "criteria": {
+      "has_sandstone": "2025-05-11 02:33:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_sandstone_stairs": {
+    "criteria": {
+      "has_red_sandstone": "2025-05-11 02:33:31 +0000"
+    },
+    "done": true
+  },
   "mcwbridges:recipes/mossy_stone_brick_bridge": {
     "criteria": {
       "has_planks": "2025-05-11 02:19:51 +0000"
+    },
+    "done": true
+  },
+  "hybrid-aquatic:recipes/food/raw_fish_steak": {
+    "criteria": {
+      "has_large_fish": "2025-05-11 02:37:17 +0000"
     },
     "done": true
   },
@@ -3454,6 +3582,12 @@
   "mcwbridges:recipes/oak_bridge_pier": {
     "criteria": {
       "has_planks": "2025-05-11 02:04:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_red_sandstone_from_red_sandstone_stonecutting": {
+    "criteria": {
+      "has_red_sandstone": "2025-05-11 02:33:31 +0000"
     },
     "done": true
   },
@@ -3567,6 +3701,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/red_sandstone_slab_from_red_sandstone_stonecutting": {
+    "criteria": {
+      "has_red_sandstone": "2025-05-11 02:33:31 +0000"
+    },
+    "done": true
+  },
+  "betterdungeons:all_dungeons": {
+    "criteria": {
+      "in_better_spider_dungeon": "2025-05-11 02:32:54 +0000"
+    },
+    "done": false
+  },
   "mysticsbiomes:recipes/transportation/maple_chest_boat": {
     "criteria": {
       "has_boat": "2025-05-11 01:44:53 +0000"
@@ -3587,6 +3733,12 @@
     },
     "done": false
   },
+  "dungeons_arise:find_bandit_towers": {
+    "criteria": {
+      "location0": "2025-05-11 02:43:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/white_wool_from_string": {
     "criteria": {
       "has_string": "2025-05-11 02:13:14 +0000"
@@ -3605,6 +3757,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cut_red_sandstone_from_red_sandstone_stonecutting": {
+    "criteria": {
+      "has_red_sandstone": "2025-05-11 02:33:31 +0000"
+    },
+    "done": true
+  },
   "biomeswevegone:recipes/decorations/palm_crafting_table": {
     "criteria": {
       "has_palm_planks": "2025-05-11 01:44:47 +0000"
@@ -3614,6 +3772,30 @@
   "minecraft:recipes/decorations/mossy_cobblestone_wall_from_mossy_cobblestone_stonecutting": {
     "criteria": {
       "has_mossy_cobblestone": "2025-05-11 02:19:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2025-05-11 02:33:41 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/orange_sandstone_bridge": {
+    "criteria": {
+      "has_planks": "2025-05-11 02:33:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_sandstone_stairs_from_red_sandstone_stonecutting": {
+    "criteria": {
+      "has_red_sandstone": "2025-05-11 02:33:31 +0000"
+    },
+    "done": true
+  },
+  "betterdungeons:spider_dungeon": {
+    "criteria": {
+      "in_better_spider_dungeon": "2025-05-11 02:32:54 +0000"
     },
     "done": true
   },
