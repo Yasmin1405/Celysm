@@ -209,6 +209,7 @@
       "minecraft:desert": "2025-05-11 02:25:08 +0000",
       "minecraft:jungle": "2025-05-07 20:10:04 +0000",
       "minecraft:warm_ocean": "2025-05-11 04:23:59 +0000",
+      "minecraft:old_growth_birch_forest": "2025-05-11 05:09:02 +0000",
       "minecraft:savanna": "2025-05-07 03:35:14 +0000",
       "minecraft:plains": "2025-05-07 03:44:33 +0000"
     },
@@ -2883,6 +2884,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cut_copper_stairs_from_copper_block_stonecutting": {
+    "criteria": {
+      "has_copper_block": "2025-05-11 05:02:42 +0000"
+    },
+    "done": true
+  },
   "biomeswevegone:recipes/transportation/ebony_chest_boat": {
     "criteria": {
       "has_boat": "2025-05-11 01:44:53 +0000"
@@ -2949,6 +2956,12 @@
     },
     "done": true
   },
+  "mostructures:tavern": {
+    "criteria": {
+      "tavern": "2025-05-11 05:09:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/light_blue_terracotta": {
     "criteria": {
       "has_terracotta": "2025-05-11 04:30:47 +0000"
@@ -2958,6 +2971,12 @@
   "minecraft:recipes/building_blocks/cut_red_sandstone": {
     "criteria": {
       "has_red_sandstone": "2025-05-11 02:33:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_copper": {
+    "criteria": {
+      "has_copper_block": "2025-05-11 05:02:42 +0000"
     },
     "done": true
   },
@@ -3054,6 +3073,12 @@
   "portablemobs:basiccelladvancement": {
     "criteria": {
       "basiccell": "2025-05-11 04:21:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_copper_block_from_honeycomb": {
+    "criteria": {
+      "has_copper_block": "2025-05-11 05:02:42 +0000"
     },
     "done": true
   },
@@ -3417,6 +3442,12 @@
     },
     "done": true
   },
+  "mostructures:barn_house": {
+    "criteria": {
+      "barn_house": "2025-05-11 05:03:33 +0000"
+    },
+    "done": true
+  },
   "biomeswevegone:recipes/decorations/palm_sign": {
     "criteria": {
       "has_planks": "2025-05-11 01:44:47 +0000"
@@ -3627,6 +3658,12 @@
     },
     "done": true
   },
+  "bakery:recipes/oat_seeds": {
+    "criteria": {
+      "has_wheat_seeds": "2025-05-11 05:01:42 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/transportation/pine_chest_boat": {
     "criteria": {
       "has_boat": "2025-05-11 01:44:53 +0000"
@@ -3740,6 +3777,8 @@
       "biomeswevegone:ironwood_gour": "2025-05-11 02:03:27 +0000",
       "biomeswevegone:orchard": "2025-05-11 04:58:56 +0000",
       "biomeswevegone:amaranth_grassland": "2025-05-11 01:49:03 +0000",
+      "biomeswevegone:prairie": "2025-05-11 05:06:37 +0000",
+      "biomeswevegone:aspen_boreal": "2025-05-11 05:09:25 +0000",
       "biomeswevegone:dead_sea": "2025-05-11 04:23:17 +0000",
       "biomeswevegone:rainbow_beach": "2025-05-11 01:48:32 +0000"
     },
@@ -3865,6 +3904,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cut_copper_from_copper_block_stonecutting": {
+    "criteria": {
+      "has_copper_block": "2025-05-11 05:02:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/cherry_chest_boat": {
     "criteria": {
       "has_boat": "2025-05-11 01:44:53 +0000"
@@ -3964,6 +4009,12 @@
   "minecraft:recipes/building_blocks/red_sandstone_stairs": {
     "criteria": {
       "has_red_sandstone": "2025-05-11 02:33:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot": {
+    "criteria": {
+      "has_copper_block": "2025-05-11 05:02:42 +0000"
     },
     "done": true
   },
@@ -4248,6 +4299,12 @@
   "minecraft:recipes/building_blocks/cut_red_sandstone_from_red_sandstone_stonecutting": {
     "criteria": {
       "has_red_sandstone": "2025-05-11 02:33:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_copper_slab_from_copper_block_stonecutting": {
+    "criteria": {
+      "has_copper_block": "2025-05-11 05:02:42 +0000"
     },
     "done": true
   },
