@@ -196,6 +196,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:eroded_badlands": "2025-05-11 04:19:51 +0000",
       "minecraft:bamboo_jungle": "2025-05-07 03:46:55 +0000",
       "minecraft:wooded_badlands": "2025-05-11 02:42:20 +0000",
       "minecraft:badlands": "2025-05-11 02:25:35 +0000",
@@ -208,6 +209,7 @@
       "minecraft:forest": "2025-05-07 03:12:15 +0000",
       "minecraft:desert": "2025-05-11 02:25:07 +0000",
       "minecraft:jungle": "2025-05-11 01:57:51 +0000",
+      "minecraft:warm_ocean": "2025-05-11 04:23:55 +0000",
       "minecraft:deep_lukewarm_ocean": "2025-05-11 01:54:24 +0000",
       "minecraft:savanna": "2025-05-07 03:28:35 +0000",
       "minecraft:plains": "2025-05-07 03:44:33 +0000"
@@ -2671,6 +2673,12 @@
     },
     "done": true
   },
+  "betterdeserttemples:temple_entry": {
+    "criteria": {
+      "in_better_desert_temple": "2025-05-11 04:29:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
     "criteria": {
       "has_salmon": "2025-05-11 02:39:25 +0000"
@@ -2770,6 +2778,7 @@
   },
   "adorabuild_structures:tireless_legs": {
     "criteria": {
+      "acacia_house_medium_3": "2025-05-11 04:29:02 +0000",
       "acacia_house_small_1": "2025-05-11 03:04:00 +0000",
       "red_sand_house_small_1": "2025-05-11 02:50:59 +0000"
     },
@@ -3013,12 +3022,14 @@
   "biomeswevegone:biomeswevegone/adventure/oh_the_biomes_weve_gone": {
     "criteria": {
       "biomeswevegone:crag_gardens": "2025-05-11 01:46:54 +0000",
+      "biomeswevegone:mojave_desert": "2025-05-11 04:23:19 +0000",
       "biomeswevegone:enchanted_tangle": "2025-05-11 01:58:38 +0000",
       "biomeswevegone:red_rock_valley": "2025-05-11 04:10:48 +0000",
       "biomeswevegone:firecracker_chaparral": "2025-05-11 02:07:24 +0000",
       "biomeswevegone:lush_stacks": "2025-05-11 01:45:49 +0000",
       "biomeswevegone:ironwood_gour": "2025-05-11 02:03:24 +0000",
       "biomeswevegone:amaranth_grassland": "2025-05-11 01:49:03 +0000",
+      "biomeswevegone:dead_sea": "2025-05-11 04:23:17 +0000",
       "biomeswevegone:tropical_rainforest": "2025-05-11 01:52:15 +0000",
       "biomeswevegone:rainbow_beach": "2025-05-11 01:48:22 +0000"
     },
@@ -3292,6 +3303,7 @@
     "criteria": {
       "mauve_hills": "2025-05-11 02:07:49 +0000",
       "dry_bushland": "2025-05-11 02:24:57 +0000",
+      "rocky_reef": "2025-05-11 04:23:05 +0000",
       "grassy_beach": "2025-05-11 01:46:32 +0000",
       "rocky_meadow": "2025-05-11 02:07:46 +0000",
       "tropical_river": "2025-05-11 02:24:49 +0000",
@@ -3300,8 +3312,10 @@
       "outback": "2025-05-11 03:03:48 +0000",
       "joshua_desert": "2025-05-11 02:23:28 +0000",
       "sparse_redwoods": "2025-05-11 03:02:53 +0000",
+      "chalk_cliffs": "2025-05-11 04:19:27 +0000",
       "bamboo_forest": "2025-05-11 02:10:33 +0000",
       "saguaro_desert": "2025-05-11 03:08:16 +0000",
+      "baobab_savanna": "2025-05-11 04:19:53 +0000",
       "redwoods": "2025-05-11 01:46:50 +0000",
       "rainforest": "2025-05-11 03:15:36 +0000"
     },
@@ -3409,6 +3423,7 @@
     "criteria": {
       "mauve_hills": "2025-05-11 02:07:49 +0000",
       "dry_bushland": "2025-05-11 02:24:57 +0000",
+      "rocky_reef": "2025-05-11 04:23:05 +0000",
       "grassy_beach": "2025-05-11 01:46:32 +0000",
       "rocky_meadow": "2025-05-11 02:07:46 +0000",
       "tropical_river": "2025-05-11 02:24:49 +0000",
@@ -3417,8 +3432,10 @@
       "outback": "2025-05-11 03:03:48 +0000",
       "joshua_desert": "2025-05-11 02:23:28 +0000",
       "sparse_redwoods": "2025-05-11 03:02:53 +0000",
+      "chalk_cliffs": "2025-05-11 04:19:27 +0000",
       "bamboo_forest": "2025-05-11 02:10:33 +0000",
       "saguaro_desert": "2025-05-11 03:08:16 +0000",
+      "baobab_savanna": "2025-05-11 04:19:53 +0000",
       "redwoods": "2025-05-11 01:46:50 +0000",
       "rainforest": "2025-05-11 03:15:36 +0000"
     },

@@ -196,6 +196,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:eroded_badlands": "2025-05-11 04:19:52 +0000",
       "minecraft:bamboo_jungle": "2025-05-07 03:46:57 +0000",
       "minecraft:wooded_badlands": "2025-05-11 02:42:20 +0000",
       "minecraft:badlands": "2025-05-11 02:25:07 +0000",
@@ -207,6 +208,7 @@
       "minecraft:forest": "2025-05-07 03:13:47 +0000",
       "minecraft:desert": "2025-05-11 02:25:08 +0000",
       "minecraft:jungle": "2025-05-07 20:10:04 +0000",
+      "minecraft:warm_ocean": "2025-05-11 04:23:59 +0000",
       "minecraft:savanna": "2025-05-07 03:35:14 +0000",
       "minecraft:plains": "2025-05-07 03:44:33 +0000"
     },
@@ -2502,6 +2504,7 @@
   },
   "adorabuild_structures:tireless_legs": {
     "criteria": {
+      "acacia_house_medium_3": "2025-05-11 04:29:04 +0000",
       "acacia_house_small_1": "2025-05-11 03:04:03 +0000",
       "jungle_house_small_1": "2025-05-07 05:07:29 +0000",
       "red_sand_house_small_1": "2025-05-11 02:51:04 +0000"
@@ -2721,6 +2724,12 @@
   "regions_unexplored:recipes/transportation/blackwood_chest_boat": {
     "criteria": {
       "has_boat": "2025-05-11 01:44:53 +0000"
+    },
+    "done": true
+  },
+  "portablemobs:captureadvancement": {
+    "criteria": {
+      "capture": "2025-05-11 04:22:03 +0000"
     },
     "done": true
   },
@@ -2964,6 +2973,18 @@
     },
     "done": true
   },
+  "portablemobs:basiccelladvancement": {
+    "criteria": {
+      "basiccell": "2025-05-11 04:21:50 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/chalk_pillar": {
+    "criteria": {
+      "has_chalk": "2025-05-11 04:26:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/mossy_cobblestone_slab": {
     "criteria": {
       "has_mossy_cobblestone": "2025-05-11 02:19:51 +0000"
@@ -3009,6 +3030,12 @@
   "minecraft:recipes/building_blocks/mossy_cobblestone_stairs": {
     "criteria": {
       "has_mossy_cobblestone": "2025-05-11 02:19:51 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/polished_chalk": {
+    "criteria": {
+      "has_chalk": "2025-05-11 04:26:46 +0000"
     },
     "done": true
   },
@@ -3108,6 +3135,12 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/building_blocks/chalk_bricks_from_chalk_stonecutting": {
+    "criteria": {
+      "has_chalk": "2025-05-11 04:26:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/jungle_trapdoor": {
     "criteria": {
       "has_planks": "2025-05-11 01:44:20 +0000"
@@ -3129,6 +3162,12 @@
   "biomeswevegone:recipes/redstone/palm_button": {
     "criteria": {
       "has_planks": "2025-05-11 01:44:47 +0000"
+    },
+    "done": true
+  },
+  "betterdeserttemples:temple_entry": {
+    "criteria": {
+      "in_better_desert_temple": "2025-05-11 04:29:09 +0000"
     },
     "done": true
   },
@@ -3354,6 +3393,12 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/building_blocks/chalk_stairs": {
+    "criteria": {
+      "has_chalk": "2025-05-11 04:26:46 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/building_blocks/mossy_stone_from_smelting_mossy_cobblestone": {
     "criteria": {
       "has_mossy_cobblestone": "2025-05-11 02:19:51 +0000"
@@ -3369,6 +3414,12 @@
   "farmersdelight:recipes/cooking/dog_food": {
     "criteria": {
       "has_any_ingredient": "2025-05-11 01:43:16 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/chalk_pillar_from_chalk_stonecutting": {
+    "criteria": {
+      "has_chalk": "2025-05-11 04:26:46 +0000"
     },
     "done": true
   },
@@ -3405,6 +3456,12 @@
   "minecraft:story/obtain_armor": {
     "criteria": {
       "iron_helmet": "2025-05-11 03:33:56 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/chalk_slab_from_chalk_stonecutting": {
+    "criteria": {
+      "has_chalk": "2025-05-11 04:26:46 +0000"
     },
     "done": true
   },
@@ -3501,12 +3558,14 @@
   "biomeswevegone:biomeswevegone/adventure/oh_the_biomes_weve_gone": {
     "criteria": {
       "biomeswevegone:crag_gardens": "2025-05-11 01:46:54 +0000",
+      "biomeswevegone:mojave_desert": "2025-05-11 04:23:20 +0000",
       "biomeswevegone:enchanted_tangle": "2025-05-11 01:58:40 +0000",
       "biomeswevegone:red_rock_valley": "2025-05-11 04:10:49 +0000",
       "biomeswevegone:firecracker_chaparral": "2025-05-11 02:06:23 +0000",
       "biomeswevegone:lush_stacks": "2025-05-11 01:45:50 +0000",
       "biomeswevegone:ironwood_gour": "2025-05-11 02:03:27 +0000",
       "biomeswevegone:amaranth_grassland": "2025-05-11 01:49:03 +0000",
+      "biomeswevegone:dead_sea": "2025-05-11 04:23:17 +0000",
       "biomeswevegone:rainbow_beach": "2025-05-11 01:48:32 +0000"
     },
     "done": false
@@ -3523,9 +3582,21 @@
     },
     "done": true
   },
+  "portablemobs:recipes/misc/master_capture_cell": {
+    "criteria": {
+      "recipe_condition": "2025-05-11 04:21:50 +0000"
+    },
+    "done": true
+  },
   "biomeswevegone:recipes/redstone/palm_trapdoor": {
     "criteria": {
       "has_planks": "2025-05-11 01:44:47 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/chalk_stairs_from_chalk_stonecutting": {
+    "criteria": {
+      "has_chalk": "2025-05-11 04:26:46 +0000"
     },
     "done": true
   },
@@ -3550,6 +3621,12 @@
   "minecraft:recipes/building_blocks/sandstone_stairs_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2025-05-11 04:19:05 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/chalk_grass_block": {
+    "criteria": {
+      "has_chalk": "2025-05-11 04:26:46 +0000"
     },
     "done": true
   },
@@ -3805,10 +3882,17 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/building_blocks/polished_chalk_from_chalk_stonecutting": {
+    "criteria": {
+      "has_chalk": "2025-05-11 04:26:46 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:regions_explored": {
     "criteria": {
       "mauve_hills": "2025-05-11 02:07:51 +0000",
       "dry_bushland": "2025-05-11 02:25:00 +0000",
+      "rocky_reef": "2025-05-11 04:23:05 +0000",
       "grassy_beach": "2025-05-11 01:46:32 +0000",
       "rocky_meadow": "2025-05-11 02:07:49 +0000",
       "tropical_river": "2025-05-11 02:24:46 +0000",
@@ -3817,8 +3901,10 @@
       "outback": "2025-05-11 03:03:54 +0000",
       "joshua_desert": "2025-05-11 02:23:28 +0000",
       "sparse_redwoods": "2025-05-11 03:02:58 +0000",
+      "chalk_cliffs": "2025-05-11 04:19:28 +0000",
       "bamboo_forest": "2025-05-11 02:10:33 +0000",
       "saguaro_desert": "2025-05-11 03:08:10 +0000",
+      "baobab_savanna": "2025-05-11 04:19:51 +0000",
       "redwoods": "2025-05-11 01:46:50 +0000",
       "rainforest": "2025-05-11 03:15:43 +0000"
     },
@@ -3839,6 +3925,12 @@
   "minecraft:recipes/decorations/mossy_cobblestone_wall": {
     "criteria": {
       "has_mossy_cobblestone": "2025-05-11 02:19:51 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/chalk_slab": {
+    "criteria": {
+      "has_chalk": "2025-05-11 04:26:46 +0000"
     },
     "done": true
   },
@@ -3894,6 +3986,7 @@
     "criteria": {
       "mauve_hills": "2025-05-11 02:07:51 +0000",
       "dry_bushland": "2025-05-11 02:25:00 +0000",
+      "rocky_reef": "2025-05-11 04:23:05 +0000",
       "grassy_beach": "2025-05-11 01:46:32 +0000",
       "rocky_meadow": "2025-05-11 02:07:49 +0000",
       "tropical_river": "2025-05-11 02:24:46 +0000",
@@ -3902,8 +3995,10 @@
       "outback": "2025-05-11 03:03:54 +0000",
       "joshua_desert": "2025-05-11 02:23:28 +0000",
       "sparse_redwoods": "2025-05-11 03:02:58 +0000",
+      "chalk_cliffs": "2025-05-11 04:19:28 +0000",
       "bamboo_forest": "2025-05-11 02:10:33 +0000",
       "saguaro_desert": "2025-05-11 03:08:10 +0000",
+      "baobab_savanna": "2025-05-11 04:19:51 +0000",
       "redwoods": "2025-05-11 01:46:50 +0000",
       "rainforest": "2025-05-11 03:15:43 +0000"
     },
