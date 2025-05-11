@@ -2242,6 +2242,12 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/building_blocks/overgrown_bone_block": {
+    "criteria": {
+      "has_bone_block": "2025-05-11 02:57:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/deflect_arrow": {
     "criteria": {
       "deflected_projectile": "2025-05-11 02:12:34 +0000"
@@ -2326,6 +2332,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/spyglass": {
+    "criteria": {
+      "has_amethyst_shard": "2025-05-11 02:48:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2025-05-11 02:40:28 +0000",
@@ -2351,9 +2363,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/bone_meal_from_bone_block": {
+    "criteria": {
+      "has_bone_block": "2025-05-11 02:57:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite": {
+    "criteria": {
+      "has_quartz": "2025-05-11 02:48:23 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/building_blocks/ash": {
     "criteria": {
       "has_gunpowder": "2025-05-11 02:33:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite": {
+    "criteria": {
+      "has_quartz": "2025-05-11 02:48:23 +0000"
     },
     "done": true
   },
@@ -2375,6 +2405,18 @@
     },
     "done": true
   },
+  "bosses_of_mass_destruction:recipes/void_lily": {
+    "criteria": {
+      "has_amethyst_shard": "2025-05-11 02:48:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_block": {
+    "criteria": {
+      "has_quartz": "2025-05-11 02:48:23 +0000"
+    },
+    "done": true
+  },
   "hybrid-aquatic:boat": {
     "criteria": {
       "has_boat": "2025-05-11 01:44:59 +0000"
@@ -2384,6 +2426,24 @@
   "supplementaries:recipes/sign_post_spruce": {
     "criteria": {
       "has_spruce_sign": "2025-05-11 01:41:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/calibrated_sculk_sensor": {
+    "criteria": {
+      "has_amethyst_shard": "2025-05-11 02:48:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/tinted_glass": {
+    "criteria": {
+      "has_amethyst_shard": "2025-05-11 02:48:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/comparator": {
+    "criteria": {
+      "has_quartz": "2025-05-11 02:48:23 +0000"
     },
     "done": true
   },
@@ -2417,6 +2477,12 @@
     },
     "done": true
   },
+  "species:recipes/bone_block_from_bone_bark": {
+    "criteria": {
+      "has_item": "2025-05-11 02:57:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
     "criteria": {
       "has_salmon": "2025-05-11 02:39:25 +0000"
@@ -2426,6 +2492,12 @@
   "regions_unexplored:recipes/transportation/willow_chest_boat": {
     "criteria": {
       "has_boat": "2025-05-11 01:44:59 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/quartz": {
+    "criteria": {
+      "has_quartz": "2025-05-11 02:48:23 +0000"
     },
     "done": true
   },
@@ -2464,6 +2536,12 @@
       "has_packed_mud": "2025-05-11 02:38:06 +0000"
     },
     "done": true
+  },
+  "adorabuild_structures:tireless_legs": {
+    "criteria": {
+      "red_sand_house_small_1": "2025-05-11 02:50:59 +0000"
+    },
+    "done": false
   },
   "regions_unexplored:recipes/transportation/kapok_chest_boat": {
     "criteria": {
@@ -2564,6 +2642,12 @@
   "minecraft:recipes/combat/bow": {
     "criteria": {
       "has_string": "2025-05-11 02:13:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/orange_glazed_terracotta": {
+    "criteria": {
+      "has_orange_terracotta": "2025-05-11 02:57:56 +0000"
     },
     "done": true
   },
@@ -2688,6 +2772,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/daylight_detector": {
+    "criteria": {
+      "has_quartz": "2025-05-11 02:48:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/observer": {
+    "criteria": {
+      "has_quartz": "2025-05-11 02:48:23 +0000"
+    },
+    "done": true
+  },
   "rottencreatures:recipes/redstone/tnt_barrel": {
     "criteria": {
       "has_gunpowder": "2025-05-11 02:33:41 +0000"
@@ -2730,6 +2826,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/crystal_display": {
+    "criteria": {
+      "has_amethyst_shard": "2025-05-11 02:48:26 +0000"
+    },
+    "done": true
+  },
   "mysticsbiomes:recipes/transportation/cherry_chest_boat": {
     "criteria": {
       "has_boat": "2025-05-11 01:44:59 +0000"
@@ -2745,6 +2847,12 @@
   "biomeswevegone:recipes/transportation/skyris_chest_boat": {
     "criteria": {
       "has_boat": "2025-05-11 01:44:59 +0000"
+    },
+    "done": true
+  },
+  "species:recipes/bone_from_bone_spike": {
+    "criteria": {
+      "has_item": "2025-05-11 02:57:51 +0000"
     },
     "done": true
   },
@@ -2804,6 +2912,12 @@
     },
     "done": true
   },
+  "species:recipes/bone_bark": {
+    "criteria": {
+      "has_item": "2025-05-11 02:57:51 +0000"
+    },
+    "done": true
+  },
   "betterdungeons:all_dungeons": {
     "criteria": {
       "in_better_spider_dungeon": "2025-05-11 02:33:36 +0000"
@@ -2845,6 +2959,18 @@
   "farmersdelight:recipes/building_blocks/organic_compost_from_rotten_flesh": {
     "criteria": {
       "has_rotten_flesh": "2025-05-11 02:29:50 +0000"
+    },
+    "done": true
+  },
+  "species:recipes/bone_vertebra": {
+    "criteria": {
+      "has_item": "2025-05-11 02:57:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/amethyst_block": {
+    "criteria": {
+      "has_amethyst_shard": "2025-05-11 02:48:26 +0000"
     },
     "done": true
   },

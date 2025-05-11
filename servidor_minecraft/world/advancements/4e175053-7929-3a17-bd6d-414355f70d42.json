@@ -2501,7 +2501,8 @@
   },
   "adorabuild_structures:tireless_legs": {
     "criteria": {
-      "jungle_house_small_1": "2025-05-07 05:07:29 +0000"
+      "jungle_house_small_1": "2025-05-07 05:07:29 +0000",
+      "red_sand_house_small_1": "2025-05-11 02:51:04 +0000"
     },
     "done": false
   },
