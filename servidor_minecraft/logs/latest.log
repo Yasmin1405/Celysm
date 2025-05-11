@@ -3899,3 +3899,240 @@ Caused by: java.lang.IndexOutOfBoundsException: Index 50 out of bounds for lengt
 [04:01:03] [Server thread/WARN]: Tried to over-fill a container
 [04:01:03] [Server thread/WARN]: Tried to over-fill a container
 [04:01:03] [Server thread/INFO]: [Not Secure] <Celxex> y el jefe
+[04:01:59] [Server thread/INFO]: [Not Secure] <Celxex> creo que se cayo
+[04:02:37] [Server thread/INFO]: [Not Secure] <Celxex> vamos a dormir
+[04:03:11] [Server thread/INFO]: [Not Secure] <Celxex> NOP
+[04:03:16] [Server thread/INFO]: Celxex was slain by Kobold Warrior
+[04:03:23] [Server thread/INFO]: Celxex was not rescued in time
+[04:03:32] [Netty Epoll Server IO #2/ERROR]: Exception occurred in netty pipeline
+io.netty.handler.codec.DecoderException: java.lang.IndexOutOfBoundsException: Index 50 out of bounds for length 1
+	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:489) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:280) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:336) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:323) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:444) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:280) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) ~[netty-transport-4.1.82.Final.jar:?]
+	at net.minecraft.class_3238.channelRead(class_3238.java:95) ~[server-intermediary.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.handler.timeout.IdleStateHandler.channelRead(IdleStateHandler.java:286) ~[netty-handler-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.DefaultChannelPipeline$HeadContext.channelRead(DefaultChannelPipeline.java:1410) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.DefaultChannelPipeline.fireChannelRead(DefaultChannelPipeline.java:919) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.epoll.AbstractEpollStreamChannel$EpollStreamUnsafe.epollInReady(AbstractEpollStreamChannel.java:800) ~[netty-transport-classes-epoll-4.1.82.Final.jar:?]
+	at io.netty.channel.epoll.EpollEventLoop.processReady(EpollEventLoop.java:499) ~[netty-transport-classes-epoll-4.1.82.Final.jar:?]
+	at io.netty.channel.epoll.EpollEventLoop.run(EpollEventLoop.java:397) ~[netty-transport-classes-epoll-4.1.82.Final.jar:?]
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:997) ~[netty-common-4.1.82.Final.jar:?]
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74) ~[netty-common-4.1.82.Final.jar:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+Caused by: java.lang.IndexOutOfBoundsException: Index 50 out of bounds for length 1
+	at jdk.internal.util.Preconditions.outOfBounds(Preconditions.java:64) ~[?:?]
+	at jdk.internal.util.Preconditions.outOfBoundsCheckIndex(Preconditions.java:70) ~[?:?]
+	at jdk.internal.util.Preconditions.checkIndex(Preconditions.java:266) ~[?:?]
+	at java.util.Objects.checkIndex(Objects.java:361) ~[?:?]
+	at java.util.ArrayList.get(ArrayList.java:427) ~[?:?]
+	at net.minecraft.class_2539$class_4532.method_22310(class_2539.java:458) ~[server-intermediary.jar:?]
+	at net.minecraft.class_2539.method_10783(class_2539.java:522) ~[server-intermediary.jar:?]
+	at net.minecraft.class_2543.decode(class_2543.java:32) ~[server-intermediary.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.decodeRemovalReentryProtection(ByteToMessageDecoder.java:519) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:458) ~[netty-codec-4.1.82.Final.jar:?]
+	... 29 more
+[04:03:54] [Server thread/INFO]: [Not Secure] <Celxex> a onde vas
+[04:03:55] [Server thread/INFO]: [Not Secure] <Celxex> vente
+[04:03:59] [Server thread/INFO]: [Celxex: Set the time to 1000]
+[04:04:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2125ms or 42 ticks behind
+[04:04:21] [Server thread/INFO]: [Not Secure] <Celxex> muelto
+[04:04:33] [Server thread/INFO]: [Not Secure] <Celxex> veni
+[04:04:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8100ms or 162 ticks behind
+[04:04:42] [Server thread/INFO]: [Not Secure] <Celxex> nos vamos en camello
+[04:05:45] [Server thread/INFO]: [Not Secure] <Celxex> meneje
+[04:06:10] [Server thread/INFO]: [Not Secure] <Celxex> dale mas rapido
+[04:06:15] [Server thread/INFO]: [Not Secure] <Celxex> el va mas rapido
+[04:06:46] [Server thread/INFO]: [Not Secure] <Celxex> dios JKDAS
+[04:06:50] [Server thread/INFO]: [Not Secure] <Celxex> MEJOR MANEJO YO
+[04:07:25] [Server thread/INFO]: [Not Secure] <Celxex> no pasara
+[04:07:50] [Server thread/WARN]: Camel (vehicle of Yasame14) moved too quickly! 6.76318574996958,0.0,7.855791197406916
+[04:07:50] [Server thread/WARN]: Camel (vehicle of Yasame14) moved too quickly! 7.014309814137505,0.0,8.167778710708035
+[04:07:50] [Server thread/WARN]: Camel (vehicle of Yasame14) moved too quickly! 7.265433872958511,0.0,8.479766229672464
+[04:07:50] [Server thread/WARN]: Camel (vehicle of Yasame14) moved too quickly! 7.516557928918701,0.0,8.791753751667216
+[04:07:50] [Server thread/WARN]: Camel (vehicle of Yasame14) moved too quickly! 7.767681983347757,0.0,9.103741275283483
+[04:07:50] [Server thread/WARN]: Camel (vehicle of Yasame14) moved too quickly! 8.018416228384012,0.0,9.416041696533853
+[04:07:50] [Server thread/WARN]: Camel (vehicle of Yasame14) moved too quickly! 8.268565226099327,0.0,9.72881027600613
+[04:07:54] [Server thread/WARN]: Camel (vehicle of Yasame14) moved too quickly! 4.875059216856698,1.0,8.755998640574717
+[04:07:54] [Server thread/WARN]: Camel (vehicle of Yasame14) moved too quickly! 4.990611191064545,1.0,8.969247034575346
+[04:07:54] [Server thread/WARN]: Camel (vehicle of Yasame14) moved too quickly! 5.094293612034562,1.0,9.16098948329818
+[04:07:54] [Server thread/WARN]: Camel (vehicle of Yasame14) moved too quickly! 5.191624871720251,1.0,9.341224529485089
+[04:07:54] [Server thread/WARN]: Camel (vehicle of Yasame14) moved too quickly! 5.285557751631131,1.0,9.515302194007973
+[04:07:54] [Server thread/WARN]: Camel (vehicle of Yasame14) moved too quickly! 5.377672226280993,1.0,9.68608516636732
+[04:07:54] [Server thread/WARN]: Camel (vehicle of Yasame14) moved too quickly! 5.468813708530888,1.0,9.855105214639025
+[04:07:54] [Server thread/WARN]: Camel (vehicle of Yasame14) moved too quickly! 5.559434561946546,1.0,10.023181957380302
+[04:07:54] [Server thread/WARN]: Camel (vehicle of Yasame14) moved too quickly! 5.649776837253739,1.0,10.190753956139815
+[04:07:54] [Server thread/WARN]: Camel (vehicle of Yasame14) moved too quickly! 5.739970050969077,1.0,10.358055876458138
+[04:07:54] [Server thread/WARN]: Camel (vehicle of Yasame14) moved too quickly! 5.830083504798495,1.0,10.52521328318744
+[04:07:54] [Server thread/WARN]: Camel (vehicle of Yasame14) moved too quickly! 5.920154280703173,1.0,10.692293363576482
+[04:07:54] [Server thread/WARN]: Camel (vehicle of Yasame14) moved too quickly! 6.010202220501469,1.0,10.859332068182539
+[04:07:54] [Server thread/WARN]: Camel (vehicle of Yasame14) moved too quickly! 6.100237941154319,1.0,11.026348633432008
+[04:07:54] [Server thread/WARN]: Camel (vehicle of Yasame14) moved too quickly! 6.190267123586182,1.0,11.19335335235337
+[04:07:54] [Server thread/WARN]: Camel (vehicle of Yasame14) moved too quickly! 6.280292807546175,1.0,11.360351732540721
+[04:07:54] [Server thread/WARN]: Camel (vehicle of Yasame14) moved too quickly! 6.370316619543701,1.0,11.527346720997684
+[04:07:54] [Server thread/WARN]: Camel (vehicle of Yasame14) moved too quickly! 6.460339429891519,1.0,11.694339894607538
+[04:07:54] [Server thread/WARN]: Camel (vehicle of Yasame14) moved too quickly! 6.5503617042763835,1.0,11.861332097128752
+[04:07:54] [Server thread/WARN]: Camel (vehicle of Yasame14) moved too quickly! 6.640383691878469,1.0,12.028323780039955
+[04:07:54] [Server thread/WARN]: Camel (vehicle of Yasame14) moved too quickly! 6.73040552602879,1.0,12.195315184918172
+[04:07:54] [Server thread/WARN]: Camel (vehicle of Yasame14) moved too quickly! 6.820427278069928,1.0,12.362306441026249
+[04:07:54] [Server thread/WARN]: Camel (vehicle of Yasame14) moved too quickly! 6.910448986176107,1.0,12.529297617530574
+[04:07:54] [Server thread/WARN]: Camel (vehicle of Yasame14) moved too quickly! 7.000470670773666,1.0,12.696288751440534
+[04:07:54] [Server thread/WARN]: Camel (vehicle of Yasame14) moved too quickly! 7.090492342792004,1.0,12.863279862559011
+[04:07:54] [Server thread/WARN]: Camel (vehicle of Yasame14) moved too quickly! 7.180514008079626,1.0,13.030270961482302
+[04:07:54] [Server thread/WARN]: Camel (vehicle of Yasame14) moved too quickly! 7.27053566976565,1.0,13.197262053880195
+[04:07:54] [Server thread/WARN]: Camel (vehicle of Yasame14) moved too quickly! 7.360557329524454,1.0,13.364253142786538
+[04:07:54] [Server thread/WARN]: Camel (vehicle of Yasame14) moved too quickly! 7.450578988252346,1.0,13.531244229824551
+[04:07:54] [Server thread/WARN]: Camel (vehicle of Yasame14) moved too quickly! 7.540600646428629,1.0,13.698235315862803
+[04:07:54] [Server thread/WARN]: Camel (vehicle of Yasame14) moved too quickly! 7.630622304309327,1.0,13.865226401366044
+[04:07:54] [Server thread/WARN]: Camel (vehicle of Yasame14) moved too quickly! 7.720643962032227,1.0,14.03221748658325
+[04:07:54] [Server thread/WARN]: Camel (vehicle of Yasame14) moved too quickly! 7.810665619670544,1.0,14.199208571647205
+[04:07:54] [Server thread/WARN]: Camel (vehicle of Yasame14) moved too quickly! 7.900687277263842,1.0,14.366199656629306
+[04:07:54] [Server thread/WARN]: Camel (vehicle of Yasame14) moved too quickly! 7.990708934832583,1.0,14.533190741567523
+[04:07:54] [Server thread/WARN]: Camel (vehicle of Yasame14) moved too quickly! 8.08073059238859,1.0,14.700181826482321
+[04:07:54] [Server thread/WARN]: Camel (vehicle of Yasame14) moved too quickly! 8.170752249937777,1.0,14.867172911384387
+[04:07:54] [Server thread/WARN]: Camel (vehicle of Yasame14) moved too quickly! 8.260773907483326,1.0,15.034163996279858
+[04:07:54] [Server thread/WARN]: Camel (vehicle of Yasame14) moved too quickly! 8.350795565026601,1.0,15.201155081171692
+[04:07:54] [Server thread/WARN]: Camel (vehicle of Yasame14) moved too quickly! 8.440817222568967,1.0,15.368146166061706
+[04:07:54] [Server thread/WARN]: Camel (vehicle of Yasame14) moved too quickly! 8.530838880110878,1.0,15.535137250950584
+[04:07:54] [Server thread/WARN]: Camel (vehicle of Yasame14) moved too quickly! 8.620860537652334,1.0,15.702128335839006
+[04:07:54] [Server thread/WARN]: Camel (vehicle of Yasame14) moved too quickly! 8.710479693550951,1.0,15.869335057684566
+[04:07:54] [Server thread/WARN]: Camel (vehicle of Yasame14) moved too quickly! 8.799472379166673,1.0,16.03687465003395
+[04:07:54] [Server thread/WARN]: Camel (vehicle of Yasame14) moved too quickly! 8.887927621748531,1.0,16.20469832797926
+[04:07:54] [Server thread/WARN]: Camel (vehicle of Yasame14) moved too quickly! 8.97568249417509,1.0,16.372888258281137
+[04:07:54] [Server thread/WARN]: Camel (vehicle of Yasame14) moved too quickly! 9.062241217478913,1.0,16.54169232029244
+[04:07:54] [Server thread/WARN]: Camel (vehicle of Yasame14) moved too quickly! 9.147334183600833,1.0,16.7112345433909
+[04:07:54] [Server thread/WARN]: Camel (vehicle of Yasame14) moved too quickly! 9.22976387516701,1.0,16.882064181641
+[04:07:54] [Server thread/WARN]: Camel (vehicle of Yasame14) moved too quickly! 9.309086206882057,1.0,17.05433632593872
+[04:07:54] [Server thread/WARN]: Camel (vehicle of Yasame14) moved too quickly! 9.413619769750767,1.0,17.322058592656504
+[04:07:54] [Server thread/WARN]: Camel (vehicle of Yasame14) moved too quickly! 9.531643359751797,1.0,17.64085431681133
+[04:07:54] [Server thread/WARN]: Camel (vehicle of Yasame14) moved too quickly! 9.65550323451589,1.0,17.987461131801638
+[04:07:54] [Server thread/WARN]: Camel (vehicle of Yasame14) moved too quickly! 9.782485988893768,1.0,18.348949107004728
+[04:07:54] [Server thread/WARN]: Camel (vehicle of Yasame14) moved too quickly! 9.911139733889286,1.0,18.71839969433927
+[04:07:54] [Server thread/WARN]: Camel (vehicle of Yasame14) moved too quickly! 10.040687592648283,1.0,19.092110916667934
+[04:07:54] [Server thread/WARN]: Camel (vehicle of Yasame14) moved too quickly! 10.170713873855675,1.0,19.468101919834226
+[04:07:54] [Server thread/WARN]: Camel (vehicle of Yasame14) moved too quickly! 10.30099614937626,1.0,19.845312788272622
+[04:07:54] [Server thread/WARN]: Camel (vehicle of Yasame14) moved too quickly! 10.431415402350012,1.0,20.223176382296742
+[04:07:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5357ms or 107 ticks behind
+[04:07:54] [Server thread/WARN]: Camel (vehicle of Yasame14) moved too quickly! 5.824583467772754,0.0,12.098831004060457
+[04:07:54] [Server thread/WARN]: Camel (vehicle of Yasame14) moved too quickly! 5.955115232757635,0.0,12.477230740833193
+[04:07:54] [Server thread/WARN]: Camel (vehicle of Yasame14) moved too quickly! 6.085667982569248,0.0,12.855730474599568
+[04:08:00] [Server thread/WARN]: Camel (vehicle of Yasame14) moved too quickly! 8.79742512528128,0.0,4.780690164573571
+[04:08:00] [Server thread/WARN]: Camel (vehicle of Yasame14) moved too quickly! 9.149322130351266,0.0,4.9719177711929206
+[04:08:00] [Server thread/WARN]: Camel (vehicle of Yasame14) moved too quickly! 9.501219135421252,0.0,5.1631453778122705
+[04:08:00] [Server thread/WARN]: Camel (vehicle of Yasame14) moved too quickly! 9.853116140491238,0.0,5.35437298443162
+[04:08:00] [Server thread/WARN]: Camel (vehicle of Yasame14) moved too quickly! 10.205013145561225,0.0,5.54560059105097
+[04:08:00] [Server thread/WARN]: Camel (vehicle of Yasame14) moved too quickly! 10.55691015063121,0.0,5.73682819767032
+[04:08:05] [Server thread/WARN]: Camel (vehicle of Yasame14) moved too quickly! 7.900336631615119,1.0,6.318955565976921
+[04:08:05] [Server thread/WARN]: Camel (vehicle of Yasame14) moved too quickly! 7.901539172809407,1.0,6.702524312719788
+[04:08:05] [Server thread/WARN]: Camel (vehicle of Yasame14) moved too quickly! 7.881051283698071,1.0,7.092833710380319
+[04:08:05] [Server thread/WARN]: Camel (vehicle of Yasame14) moved too quickly! 7.849600733607986,1.0,7.486749895952926
+[04:08:05] [Server thread/WARN]: Camel (vehicle of Yasame14) moved too quickly! 7.80985528689871,2.0,7.882310939808576
+[04:08:05] [Server thread/WARN]: Camel (vehicle of Yasame14) moved too quickly! 7.761814608029908,2.0,8.278232821105576
+[04:08:05] [Server thread/WARN]: Camel (vehicle of Yasame14) moved too quickly! 7.7083640545370145,2.0,8.674204044139742
+[04:08:05] [Server thread/WARN]: Camel (vehicle of Yasame14) moved too quickly! 7.652018784994198,2.0,9.070201668953814
+[04:08:14] [Server thread/WARN]: Camel (vehicle of Yasame14) moved too quickly! -0.48497805320630505,-0.7725465413369932,10.212897402042472
+[04:08:14] [Server thread/WARN]: Camel (vehicle of Yasame14) moved wrongly! 1.3357445168978757
+[04:08:14] [Server thread/WARN]: Camel (vehicle of Yasame14) moved wrongly! 1.10308768917821
+[04:08:14] [Server thread/WARN]: Camel (vehicle of Yasame14) moved wrongly! 0.7096139603436313
+[04:08:14] [Server thread/WARN]: Camel (vehicle of Yasame14) moved wrongly! 0.31308364916958453
+[04:08:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8032ms or 160 ticks behind
+[04:08:23] [Server thread/INFO]: [Not Secure] <Celxex> cuando saldremos de cerru
+[04:08:27] [Server thread/WARN]: Camel (vehicle of Yasame14) moved too quickly! 2.584002788408725,1.0,9.67326092509711
+[04:08:27] [Server thread/WARN]: Camel (vehicle of Yasame14) moved too quickly! 2.678517725464644,1.0,10.062393080048196
+[04:08:27] [Server thread/WARN]: Camel (vehicle of Yasame14) moved too quickly! 2.7672706153293802,1.0,10.452853564533825
+[04:08:27] [Server thread/WARN]: Camel (vehicle of Yasame14) moved too quickly! 2.8519788400462858,1.0,10.844223605940215
+[04:08:27] [Server thread/WARN]: Camel (vehicle of Yasame14) moved too quickly! 2.934522845084757,1.0,11.236080333120299
+[04:08:32] [Server thread/WARN]: Camel (vehicle of Yasame14) moved too quickly! -6.390808667243164,0.0,7.703468926689766
+[04:08:32] [Server thread/WARN]: Camel (vehicle of Yasame14) moved too quickly! -6.60899664427825,0.0,8.038553827584792
+[04:08:32] [Server thread/WARN]: Camel (vehicle of Yasame14) moved too quickly! -6.8163550193867195,0.0,8.380517008708466
+[04:08:32] [Server thread/WARN]: Camel (vehicle of Yasame14) moved too quickly! -7.016213878611779,0.0,8.727098622644007
+[04:08:32] [Server thread/WARN]: Camel (vehicle of Yasame14) moved too quickly! -7.20990339698119,0.0,9.077305067320594
+[04:08:32] [Server thread/WARN]: Camel (vehicle of Yasame14) moved too quickly! -7.3989938901409005,0.0,9.430127988251115
+[04:08:32] [Server thread/WARN]: Camel (vehicle of Yasame14) moved too quickly! -7.585623536605908,0.0,9.784350933457972
+[04:08:32] [Server thread/WARN]: Camel (vehicle of Yasame14) moved too quickly! -7.770936433068073,0.0,10.139323003741765
+[04:08:32] [Server thread/WARN]: Camel (vehicle of Yasame14) moved too quickly! -7.955544762857244,0.0,10.494695915918328
+[04:08:32] [Server thread/WARN]: Camel (vehicle of Yasame14) moved too quickly! -8.139776093067212,0.0,10.850283310599707
+[04:08:32] [Server thread/WARN]: Camel (vehicle of Yasame14) moved too quickly! -8.323805698318665,0.0,11.205985470593077
+[04:08:32] [Server thread/WARN]: Camel (vehicle of Yasame14) moved too quickly! -8.507727364567018,0.0,11.561749039216693
+[04:08:32] [Server thread/WARN]: Camel (vehicle of Yasame14) moved too quickly! -8.691591274806797,0.0,11.917545466374122
+[04:08:32] [Server thread/WARN]: Camel (vehicle of Yasame14) moved too quickly! -8.875424280957759,0.0,12.273359475477719
+[04:08:32] [Server thread/WARN]: Camel (vehicle of Yasame14) moved too quickly! -9.060111907574083,0.0,12.62873000053628
+[04:08:32] [Server thread/WARN]: Camel (vehicle of Yasame14) moved too quickly! -9.248701552376588,0.0,12.982014545949141
+[04:08:32] [Server thread/WARN]: Camel (vehicle of Yasame14) moved too quickly! -9.443617618010649,0.0,13.331777794244545
+[04:08:32] [Server thread/WARN]: Camel (vehicle of Yasame14) moved too quickly! -9.645257341566776,0.0,13.67765714856364
+[04:08:32] [Server thread/WARN]: Camel (vehicle of Yasame14) moved too quickly! -9.855019227909452,0.0,14.018593216188492
+[04:08:32] [Server thread/WARN]: Camel (vehicle of Yasame14) moved too quickly! -10.073581980037943,0.0,14.353880018942164
+[04:08:32] [Server thread/WARN]: Camel (vehicle of Yasame14) moved too quickly! -10.30276458903927,0.0,14.681858393552147
+[04:08:32] [Server thread/WARN]: Camel (vehicle of Yasame14) moved too quickly! -10.551112999686666,0.0,14.99470512969242
+[04:08:32] [Server thread/WARN]: Camel (vehicle of Yasame14) moved too quickly! -10.816053293744972,0.0,15.293374566953617
+[04:08:32] [Server thread/WARN]: Camel (vehicle of Yasame14) moved too quickly! -11.090899495124177,0.0,15.58341580931392
+[04:08:32] [Server thread/WARN]: Camel (vehicle of Yasame14) moved too quickly! -11.37104615000817,0.0,15.868840276610399
+[04:08:32] [Server thread/WARN]: Camel (vehicle of Yasame14) moved too quickly! -11.654028971883235,0.0,16.151794399618893
+[04:08:32] [Server thread/WARN]: Camel (vehicle of Yasame14) moved too quickly! -11.938529370167998,0.0,16.43342669065214
+[04:08:32] [Server thread/WARN]: Camel (vehicle of Yasame14) moved too quickly! -12.223841793332213,0.0,16.714351695749883
+[04:08:32] [Server thread/WARN]: Camel (vehicle of Yasame14) moved too quickly! -12.509588714819529,0.0,16.994898246245384
+[04:08:32] [Server thread/WARN]: Camel (vehicle of Yasame14) moved too quickly! -12.795568127696697,0.0,17.275242293228757
+[04:08:32] [Server thread/WARN]: Camel (vehicle of Yasame14) moved too quickly! -13.081671942080902,0.0,17.55547798462021
+[04:08:32] [Server thread/WARN]: Camel (vehicle of Yasame14) moved too quickly! -13.367842321231365,0.0,17.835655697094808
+[04:08:32] [Server thread/WARN]: Camel (vehicle of Yasame14) moved too quickly! -13.654048317860997,0.0,18.11580238620695
+[04:08:32] [Server thread/WARN]: Camel (vehicle of Yasame14) moved too quickly! -13.941627009408876,0.0,18.394534644852456
+[04:08:32] [Server thread/WARN]: Camel (vehicle of Yasame14) moved too quickly! -14.229606263334972,0.0,18.672857638076948
+[04:08:32] [Server thread/WARN]: Camel (vehicle of Yasame14) moved too quickly! -14.512619767822343,0.0,18.956131801959145
+[04:08:32] [Server thread/WARN]: Camel (vehicle of Yasame14) moved too quickly! -14.768361124141393,0.0,19.26194817237274
+[04:08:32] [Server thread/WARN]: Camel (vehicle of Yasame14) moved too quickly! -14.991525475234994,0.0,19.590565957813624
+[04:08:32] [Server thread/WARN]: Camel (vehicle of Yasame14) moved too quickly! -15.194653901428865,0.0,19.932721148486507
+[04:08:32] [Server thread/WARN]: Camel (vehicle of Yasame14) moved too quickly! -15.387061503682162,0.0,20.282119934792263
+[04:08:32] [Server thread/WARN]: Camel (vehicle of Yasame14) moved too quickly! -15.573732606794692,0.0,20.63539462469953
+[04:08:32] [Server thread/WARN]: Camel (vehicle of Yasame14) moved too quickly! -15.757334223590533,0.0,20.99074323334662
+[04:08:32] [Server thread/WARN]: Camel (vehicle of Yasame14) moved too quickly! -15.9392934194575,0.0,21.347201554561934
+[04:08:32] [Server thread/WARN]: Camel (vehicle of Yasame14) moved too quickly! -16.118198133388887,0.0,21.705331069859994
+[04:08:32] [Server thread/WARN]: Camel (vehicle of Yasame14) moved too quickly! -16.29193603878275,0.0,22.066029875931235
+[04:08:32] [Server thread/WARN]: Camel (vehicle of Yasame14) moved too quickly! -10.298621029590322,0.0,15.053193256237364
+[04:08:32] [Server thread/WARN]: Camel (vehicle of Yasame14) moved too quickly! -10.460171480020108,0.0,15.419518303228642
+[04:08:32] [Server thread/WARN]: Camel (vehicle of Yasame14) moved too quickly! -10.618380523610085,0.0,15.787345362940869
+[04:08:32] [Server thread/WARN]: Camel (vehicle of Yasame14) moved too quickly! -10.772538797316429,0.0,16.156903911398558
+[04:08:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5029ms or 100 ticks behind
+[04:08:48] [Server thread/WARN]: Camel (vehicle of Yasame14) moved wrongly! 0.47364430561151494
+[04:08:48] [Server thread/WARN]: Camel (vehicle of Yasame14) moved wrongly! 0.9841034401674733
+[04:08:48] [Server thread/WARN]: Camel (vehicle of Yasame14) moved wrongly! 0.5214090919857881
+[04:08:48] [Server thread/WARN]: Camel (vehicle of Yasame14) moved wrongly! 0.8929947844003436
+[04:08:53] [Server thread/INFO]: [Not Secure] <Celxex> el salto que hace es hacia delante
+[04:09:27] [Server thread/INFO]: [Not Secure] <Celxex> no
+[04:09:37] [Server thread/INFO]: [Not Secure] <Celxex> que cosa
+[04:09:40] [Server thread/INFO]: [Not Secure] <Celxex> piedra
+[04:09:45] [Server thread/INFO]: [Not Secure] <Celxex> ahh
+[04:09:47] [Server thread/INFO]: [Not Secure] <Celxex> roca
+[04:09:53] [Server thread/INFO]: [Not Secure] <Celxex> solo que no se por que es marron
+[04:10:12] [Server thread/INFO]: [Not Secure] <Celxex> usa el salto hacia delante
+[04:10:15] [Server thread/INFO]: [Not Secure] <Celxex> es para eso
+[04:10:19] [Server thread/INFO]: [Not Secure] <Celxex> dios
+[04:10:33] [Server thread/INFO]: [Not Secure] <Celxex> pero lo haces de una
+[04:10:39] [Worker-Main-21/ERROR]: No key selector in MapLike[{event_delay:0,event_distance:0.0f,range:16,source:{source_entity:[I;617252372,-1332721100,-1914322941,1289992458],type:"minecraft:entity",y_offset:0.36f}}]
+[04:10:39] [Worker-Main-21/ERROR]: No key selector in MapLike[{event_delay:0,event_distance:0.0f,range:16,source:{source_entity:[I;1071003585,-742438505,-1885935989,1040940811],type:"minecraft:entity",y_offset:0.36f}}]
+[04:10:41] [Server thread/INFO]: [Not Secure] <Celxex> es dejarlo presionado
+[04:10:46] [Server thread/INFO]: [Not Secure] <Celxex> y que cargue la barra
+[04:10:51] [Server thread/WARN]: Camel (vehicle of Yasame14) moved wrongly! 0.6383084753665571
+[04:10:51] [Server thread/WARN]: Camel (vehicle of Yasame14) moved wrongly! 1.3050002054783363
+[04:10:51] [Server thread/WARN]: Camel (vehicle of Yasame14) moved wrongly! 1.7401979945871062
+[04:10:51] [Server thread/WARN]: Camel (vehicle of Yasame14) moved wrongly! 0.6489250263311988
+[04:10:51] [Server thread/WARN]: Camel (vehicle of Yasame14) moved wrongly! 0.7747248041225703
+[04:10:51] [Server thread/INFO]: [Not Secure] <Celxex> y darle lo mas alto posible
+[04:10:55] [Server thread/INFO]: [Not Secure] <Celxex> uuu
+[04:10:59] [Server thread/INFO]: [Not Secure] <Celxex> agarramos ?
+[04:11:26] [Server thread/INFO]: [Not Secure] <Celxex> NO

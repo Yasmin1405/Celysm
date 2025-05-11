@@ -3315,7 +3315,8 @@
   "too_many_bows:master_bow_collector": {
     "criteria": {
       "burnt_relic": "2025-05-11 03:29:41 +0000",
-      "aethers_call": "2025-05-11 03:25:33 +0000"
+      "aethers_call": "2025-05-11 03:25:33 +0000",
+      "torchbearer": "2025-05-11 04:01:23 +0000"
     },
     "done": false
   },
