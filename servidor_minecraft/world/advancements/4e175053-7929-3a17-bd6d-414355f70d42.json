@@ -3294,6 +3294,12 @@
     },
     "done": true
   },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_helmet": "2025-05-11 03:33:56 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/transportation/pine_chest_boat": {
     "criteria": {
       "has_boat": "2025-05-11 01:44:53 +0000"
@@ -3303,6 +3309,12 @@
   "supplementaries:recipes/boat_jar": {
     "criteria": {
       "minecraft:boats": "2025-05-11 01:44:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2025-05-11 03:21:09 +0000"
     },
     "done": true
   },
@@ -3609,6 +3621,12 @@
   "friendsandfoes:adventure/kill_illusioner": {
     "criteria": {
       "killed_illusioner": "2025-05-11 02:12:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2025-05-11 03:22:01 +0000"
     },
     "done": true
   },
