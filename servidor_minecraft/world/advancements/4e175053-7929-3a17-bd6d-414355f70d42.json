@@ -200,6 +200,7 @@
       "minecraft:beach": "2025-05-07 03:17:11 +0000",
       "minecraft:sparse_jungle": "2025-05-07 03:44:52 +0000",
       "minecraft:river": "2025-05-07 03:36:58 +0000",
+      "minecraft:lukewarm_ocean": "2025-05-11 01:45:32 +0000",
       "minecraft:stony_shore": "2025-05-07 20:10:06 +0000",
       "minecraft:forest": "2025-05-07 03:13:47 +0000",
       "minecraft:jungle": "2025-05-07 20:10:04 +0000",
@@ -708,6 +709,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:pillager": "2025-05-11 01:53:38 +0000",
       "minecraft:zombie": "2025-05-07 03:26:53 +0000"
     },
     "done": false
@@ -1419,6 +1421,7 @@
     "criteria": {
       "apple": "2025-05-07 04:02:03 +0000",
       "bread": "2025-05-11 01:36:20 +0000",
+      "rotten_flesh": "2025-05-11 01:51:12 +0000",
       "carrot": "2025-05-07 03:46:09 +0000"
     },
     "done": false
@@ -2905,6 +2908,12 @@
     },
     "done": true
   },
+  "biomeswevegone:biomeswevegone/adventure/root": {
+    "criteria": {
+      "biomeswevegone:lush_stacks": "2025-05-11 01:45:50 +0000"
+    },
+    "done": true
+  },
   "biomeswevegone:recipes/decorations/palm_hanging_sign": {
     "criteria": {
       "has_stripped_logs": "2025-05-11 01:44:35 +0000"
@@ -3006,6 +3015,15 @@
       "has_planks": "2025-05-11 01:44:47 +0000"
     },
     "done": true
+  },
+  "biomeswevegone:biomeswevegone/adventure/oh_the_biomes_weve_gone": {
+    "criteria": {
+      "biomeswevegone:crag_gardens": "2025-05-11 01:46:54 +0000",
+      "biomeswevegone:lush_stacks": "2025-05-11 01:45:50 +0000",
+      "biomeswevegone:amaranth_grassland": "2025-05-11 01:49:03 +0000",
+      "biomeswevegone:rainbow_beach": "2025-05-11 01:48:32 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/transportation/acacia_chest_boat": {
     "criteria": {
@@ -3187,6 +3205,13 @@
     },
     "done": true
   },
+  "regions_unexplored:regions_explored": {
+    "criteria": {
+      "grassy_beach": "2025-05-11 01:46:32 +0000",
+      "redwoods": "2025-05-11 01:46:50 +0000"
+    },
+    "done": false
+  },
   "biomeswevegone:recipes/transportation/white_mangrove_chest_boat": {
     "criteria": {
       "has_boat": "2025-05-11 01:44:53 +0000"
@@ -3222,6 +3247,13 @@
       "has_boat": "2025-05-11 01:44:53 +0000"
     },
     "done": true
+  },
+  "regions_unexplored:pioneer": {
+    "criteria": {
+      "grassy_beach": "2025-05-11 01:46:32 +0000",
+      "redwoods": "2025-05-11 01:46:50 +0000"
+    },
+    "done": false
   },
   "farmersdelight:recipes/building_blocks/organic_compost_from_rotten_flesh": {
     "criteria": {
