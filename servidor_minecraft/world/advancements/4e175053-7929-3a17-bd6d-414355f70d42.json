@@ -2814,6 +2814,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2025-05-11 03:45:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_red_sandstone": {
     "criteria": {
       "has_red_sandstone": "2025-05-11 02:33:31 +0000"
