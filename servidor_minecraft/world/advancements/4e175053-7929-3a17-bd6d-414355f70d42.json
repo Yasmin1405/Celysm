@@ -710,6 +710,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:pillager": "2025-05-11 01:53:38 +0000",
+      "minecraft:husk": "2025-05-11 02:04:24 +0000",
       "minecraft:zombie": "2025-05-07 03:26:53 +0000"
     },
     "done": false
@@ -2692,6 +2693,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/leather_helmet": {
+    "criteria": {
+      "has_leather": "2025-05-11 02:13:22 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/transportation/mauve_chest_boat": {
     "criteria": {
       "has_boat": "2025-05-11 01:44:53 +0000"
@@ -2713,6 +2720,12 @@
   "mcwbridges:recipes/jungle_log_bridge_middle": {
     "criteria": {
       "has_planks": "2025-05-11 01:44:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2025-05-11 02:15:11 +0000"
     },
     "done": true
   },
@@ -2740,6 +2753,12 @@
     },
     "done": true
   },
+  "1_splatus:ultris/technical/used_shield": {
+    "criteria": {
+      "requirement": "2025-05-11 02:06:03 +0000"
+    },
+    "done": true
+  },
   "biomeswevegone:recipes/transportation/jacaranda_chest_boat": {
     "criteria": {
       "has_boat": "2025-05-11 01:44:53 +0000"
@@ -2749,6 +2768,12 @@
   "minecraft:recipes/transportation/spruce_chest_boat": {
     "criteria": {
       "has_boat": "2025-05-11 01:44:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_chestplate": {
+    "criteria": {
+      "has_leather": "2025-05-11 02:13:22 +0000"
     },
     "done": true
   },
@@ -2770,6 +2795,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/tripwire_hook": {
+    "criteria": {
+      "has_string": "2025-05-11 02:13:14 +0000"
+    },
+    "done": true
+  },
   "biomeswevegone:recipes/redstone/palm_door": {
     "criteria": {
       "has_planks": "2025-05-11 01:44:47 +0000"
@@ -2782,9 +2813,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/candle": {
+    "criteria": {
+      "has_string": "2025-05-11 02:13:14 +0000"
+    },
+    "done": true
+  },
+  "stellarity:dragons_den/cursed_tome/items/unlock_sabrewing": {
+    "criteria": {
+      "requirement": "2025-05-11 02:14:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/leather_horse_armor": {
+    "criteria": {
+      "has_leather": "2025-05-11 02:13:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/oak_chest_boat": {
     "criteria": {
       "has_boat": "2025-05-11 01:44:53 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/horse": {
+    "criteria": {
+      "has_leather": "2025-05-11 02:13:22 +0000"
     },
     "done": true
   },
@@ -2830,6 +2885,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/skeleton": {
+    "criteria": {
+      "has_arrow": "2025-05-11 02:14:43 +0000"
+    },
+    "done": true
+  },
   "biomeswevegone:recipes/transportation/willow_chest_boat": {
     "criteria": {
       "has_boat": "2025-05-11 01:44:53 +0000"
@@ -2839,6 +2900,12 @@
   "overweight_farming:recipes/apply_violent_fullmetal_directly_to_compost": {
     "criteria": {
       "has_rotten_flesh": "2025-05-11 01:43:16 +0000"
+    },
+    "done": true
+  },
+  "hangglider:recipes/tools/glider_wing": {
+    "criteria": {
+      "has_leather": "2025-05-11 02:13:22 +0000"
     },
     "done": true
   },
@@ -2860,6 +2927,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/item_frame": {
+    "criteria": {
+      "has_leather": "2025-05-11 02:13:22 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/transportation/willow_chest_boat": {
     "criteria": {
       "has_boat": "2025-05-11 01:44:53 +0000"
@@ -2872,9 +2945,21 @@
     },
     "done": true
   },
+  "supplementaries:recipes/slingshot": {
+    "criteria": {
+      "has_string": "2025-05-11 02:13:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/jungle_sign": {
     "criteria": {
       "has_planks": "2025-05-11 01:44:20 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/oak_branch_from_oak_log": {
+    "criteria": {
+      "has_log": "2025-05-11 02:04:42 +0000"
     },
     "done": true
   },
@@ -2893,6 +2978,12 @@
   "biomeswevegone:recipes/transportation/maple_chest_boat": {
     "criteria": {
       "has_boat": "2025-05-11 01:44:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2025-05-11 02:14:42 +0000"
     },
     "done": true
   },
@@ -2938,9 +3029,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/leather_boots": {
+    "criteria": {
+      "has_leather": "2025-05-11 02:13:22 +0000"
+    },
+    "done": true
+  },
   "mysticsbiomes:recipes/transportation/strawberry_chest_boat": {
     "criteria": {
       "has_boat": "2025-05-11 01:44:53 +0000"
+    },
+    "done": true
+  },
+  "stellarity:cursed_tome/sabrewing": {
+    "criteria": {
+      "requirement": "2025-05-11 02:14:42 +0000"
     },
     "done": true
   },
@@ -2950,15 +3053,39 @@
     },
     "done": true
   },
+  "supplementaries:recipes/sack": {
+    "criteria": {
+      "has_string": "2025-05-11 02:13:14 +0000"
+    },
+    "done": true
+  },
   "promenade:recipes/crafting/palm/chest_boat": {
     "criteria": {
       "has_boat": "2025-05-11 01:44:53 +0000"
     },
     "done": true
   },
+  "hybrid-aquatic:recipes/combat/diving_leggings": {
+    "criteria": {
+      "has_leather": "2025-05-11 02:13:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_wood": {
+    "criteria": {
+      "has_log": "2025-05-11 02:04:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/jungle_slab": {
     "criteria": {
       "has_planks": "2025-05-11 01:44:20 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/horse_feed": {
+    "criteria": {
+      "has_golden_carrot": "2025-05-11 02:14:25 +0000"
     },
     "done": true
   },
@@ -2986,6 +3113,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/leather_leggings": {
+    "criteria": {
+      "has_leather": "2025-05-11 02:13:22 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/transportation/pine_chest_boat": {
     "criteria": {
       "has_boat": "2025-05-11 01:44:53 +0000"
@@ -3004,9 +3137,45 @@
     },
     "done": true
   },
+  "friendsandfoes:adventure/the_magicians": {
+    "criteria": {
+      "killed_illusioner": "2025-05-11 02:12:35 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/combat/bow": {
+    "criteria": {
+      "has_string": "2025-05-11 02:13:14 +0000"
+    },
+    "done": true
+  },
   "biomeswevegone:recipes/transportation/cika_chest_boat": {
     "criteria": {
       "has_boat": "2025-05-11 01:44:53 +0000"
+    },
+    "done": true
+  },
+  "hybrid-aquatic:recipes/tools/fishing_net": {
+    "criteria": {
+      "string": "2025-05-11 02:13:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/glow_item_frame": {
+    "criteria": {
+      "has_item_frame": "2025-05-11 02:12:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/fishing_rod": {
+    "criteria": {
+      "has_string": "2025-05-11 02:13:14 +0000"
+    },
+    "done": true
+  },
+  "hybrid-aquatic:recipes/combat/diving_boots": {
+    "criteria": {
+      "has_leather": "2025-05-11 02:13:22 +0000"
     },
     "done": true
   },
@@ -3019,7 +3188,10 @@
   "biomeswevegone:biomeswevegone/adventure/oh_the_biomes_weve_gone": {
     "criteria": {
       "biomeswevegone:crag_gardens": "2025-05-11 01:46:54 +0000",
+      "biomeswevegone:enchanted_tangle": "2025-05-11 01:58:40 +0000",
+      "biomeswevegone:firecracker_chaparral": "2025-05-11 02:06:23 +0000",
       "biomeswevegone:lush_stacks": "2025-05-11 01:45:50 +0000",
+      "biomeswevegone:ironwood_gour": "2025-05-11 02:03:27 +0000",
       "biomeswevegone:amaranth_grassland": "2025-05-11 01:49:03 +0000",
       "biomeswevegone:rainbow_beach": "2025-05-11 01:48:32 +0000"
     },
@@ -3061,9 +3233,21 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/spider": {
+    "criteria": {
+      "has_string": "2025-05-11 02:13:14 +0000"
+    },
+    "done": true
+  },
   "biomeswevegone:recipes/transportation/florus_chest_boat": {
     "criteria": {
       "has_boat": "2025-05-11 01:44:53 +0000"
+    },
+    "done": true
+  },
+  "hybrid-aquatic:recipes/combat/diving_suit": {
+    "criteria": {
+      "has_leather": "2025-05-11 02:13:22 +0000"
     },
     "done": true
   },
@@ -3163,6 +3347,12 @@
     },
     "done": true
   },
+  "mcwbridges:recipes/oak_bridge_pier": {
+    "criteria": {
+      "has_planks": "2025-05-11 02:04:42 +0000"
+    },
+    "done": true
+  },
   "mysticsbiomes:recipes/transportation/cherry_chest_boat": {
     "criteria": {
       "has_boat": "2025-05-11 01:44:53 +0000"
@@ -3172,6 +3362,12 @@
   "mysticsbiomes:recipes/transportation/jacaranda_chest_boat": {
     "criteria": {
       "has_boat": "2025-05-11 01:44:53 +0000"
+    },
+    "done": true
+  },
+  "friendsandfoes:adventure/kill_illusioner": {
+    "criteria": {
+      "killed_illusioner": "2025-05-11 02:12:35 +0000"
     },
     "done": true
   },
@@ -3207,7 +3403,10 @@
   },
   "regions_unexplored:regions_explored": {
     "criteria": {
+      "mauve_hills": "2025-05-11 02:07:51 +0000",
       "grassy_beach": "2025-05-11 01:46:32 +0000",
+      "rocky_meadow": "2025-05-11 02:07:49 +0000",
+      "bamboo_forest": "2025-05-11 02:10:33 +0000",
       "redwoods": "2025-05-11 01:46:50 +0000"
     },
     "done": false
@@ -3215,6 +3414,12 @@
   "biomeswevegone:recipes/transportation/white_mangrove_chest_boat": {
     "criteria": {
       "has_boat": "2025-05-11 01:44:53 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/blank_upgrade": {
+    "criteria": {
+      "has_leather": "2025-05-11 02:13:22 +0000"
     },
     "done": true
   },
@@ -3250,10 +3455,19 @@
   },
   "regions_unexplored:pioneer": {
     "criteria": {
+      "mauve_hills": "2025-05-11 02:07:51 +0000",
       "grassy_beach": "2025-05-11 01:46:32 +0000",
+      "rocky_meadow": "2025-05-11 02:07:49 +0000",
+      "bamboo_forest": "2025-05-11 02:10:33 +0000",
       "redwoods": "2025-05-11 01:46:50 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/building_blocks/white_wool_from_string": {
+    "criteria": {
+      "has_string": "2025-05-11 02:13:14 +0000"
+    },
+    "done": true
   },
   "farmersdelight:recipes/building_blocks/organic_compost_from_rotten_flesh": {
     "criteria": {
@@ -3270,6 +3484,12 @@
   "biomeswevegone:recipes/decorations/palm_crafting_table": {
     "criteria": {
       "has_palm_planks": "2025-05-11 01:44:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/loom": {
+    "criteria": {
+      "has_string": "2025-05-11 02:13:14 +0000"
     },
     "done": true
   },

@@ -201,7 +201,9 @@
       "minecraft:sparse_jungle": "2025-05-07 03:44:40 +0000",
       "minecraft:lukewarm_ocean": "2025-05-07 03:29:13 +0000",
       "minecraft:river": "2025-05-07 03:36:03 +0000",
+      "minecraft:stony_shore": "2025-05-11 01:56:55 +0000",
       "minecraft:forest": "2025-05-07 03:12:15 +0000",
+      "minecraft:jungle": "2025-05-11 01:57:51 +0000",
       "minecraft:deep_lukewarm_ocean": "2025-05-11 01:54:24 +0000",
       "minecraft:savanna": "2025-05-07 03:28:35 +0000",
       "minecraft:plains": "2025-05-07 03:44:33 +0000"
@@ -2231,9 +2233,21 @@
     },
     "done": true
   },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2025-05-11 02:12:34 +0000"
+    },
+    "done": true
+  },
   "biomeswevegone:recipes/transportation/sakura_chest_boat": {
     "criteria": {
       "has_boat": "2025-05-11 01:44:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/brew_potion": {
+    "criteria": {
+      "potion": "2025-05-11 02:14:02 +0000"
     },
     "done": true
   },
@@ -2252,6 +2266,12 @@
   "regions_unexplored:recipes/transportation/larch_chest_boat": {
     "criteria": {
       "has_boat": "2025-05-11 01:44:59 +0000"
+    },
+    "done": true
+  },
+  "1_splatus:ultris/technical/used_shield": {
+    "criteria": {
+      "requirement": "2025-05-11 02:12:34 +0000"
     },
     "done": true
   },
@@ -2288,6 +2308,18 @@
   "minecraft:recipes/transportation/mangrove_chest_boat": {
     "criteria": {
       "has_boat": "2025-05-11 01:44:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tripwire_hook": {
+    "criteria": {
+      "has_string": "2025-05-11 02:13:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/candle": {
+    "criteria": {
+      "has_string": "2025-05-11 02:13:10 +0000"
     },
     "done": true
   },
@@ -2357,6 +2389,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/slingshot": {
+    "criteria": {
+      "has_string": "2025-05-11 02:13:10 +0000"
+    },
+    "done": true
+  },
   "mysticsbiomes:recipes/transportation/peach_chest_boat": {
     "criteria": {
       "has_boat": "2025-05-11 01:44:59 +0000"
@@ -2399,6 +2437,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/sack": {
+    "criteria": {
+      "has_string": "2025-05-11 02:13:10 +0000"
+    },
+    "done": true
+  },
   "promenade:recipes/crafting/palm/chest_boat": {
     "criteria": {
       "has_boat": "2025-05-11 01:44:59 +0000"
@@ -2435,16 +2479,37 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/bow": {
+    "criteria": {
+      "has_string": "2025-05-11 02:13:10 +0000"
+    },
+    "done": true
+  },
   "biomeswevegone:recipes/transportation/cika_chest_boat": {
     "criteria": {
       "has_boat": "2025-05-11 01:44:59 +0000"
     },
     "done": true
   },
+  "hybrid-aquatic:recipes/tools/fishing_net": {
+    "criteria": {
+      "string": "2025-05-11 02:13:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/fishing_rod": {
+    "criteria": {
+      "has_string": "2025-05-11 02:13:10 +0000"
+    },
+    "done": true
+  },
   "biomeswevegone:biomeswevegone/adventure/oh_the_biomes_weve_gone": {
     "criteria": {
       "biomeswevegone:crag_gardens": "2025-05-11 01:46:54 +0000",
+      "biomeswevegone:enchanted_tangle": "2025-05-11 01:58:38 +0000",
+      "biomeswevegone:firecracker_chaparral": "2025-05-11 02:07:24 +0000",
       "biomeswevegone:lush_stacks": "2025-05-11 01:45:49 +0000",
+      "biomeswevegone:ironwood_gour": "2025-05-11 02:03:24 +0000",
       "biomeswevegone:amaranth_grassland": "2025-05-11 01:49:03 +0000",
       "biomeswevegone:tropical_rainforest": "2025-05-11 01:52:15 +0000",
       "biomeswevegone:rainbow_beach": "2025-05-11 01:48:22 +0000"
@@ -2472,6 +2537,12 @@
   "promenade:recipes/crafting/sakura/chest_boat": {
     "criteria": {
       "has_boat": "2025-05-11 01:44:59 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/spider": {
+    "criteria": {
+      "has_string": "2025-05-11 02:13:10 +0000"
     },
     "done": true
   },
@@ -2585,7 +2656,10 @@
   },
   "regions_unexplored:regions_explored": {
     "criteria": {
+      "mauve_hills": "2025-05-11 02:07:49 +0000",
       "grassy_beach": "2025-05-11 01:46:32 +0000",
+      "rocky_meadow": "2025-05-11 02:07:46 +0000",
+      "bamboo_forest": "2025-05-11 02:10:33 +0000",
       "redwoods": "2025-05-11 01:46:50 +0000"
     },
     "done": false
@@ -2628,10 +2702,32 @@
   },
   "regions_unexplored:pioneer": {
     "criteria": {
+      "mauve_hills": "2025-05-11 02:07:49 +0000",
       "grassy_beach": "2025-05-11 01:46:32 +0000",
+      "rocky_meadow": "2025-05-11 02:07:46 +0000",
+      "bamboo_forest": "2025-05-11 02:10:33 +0000",
       "redwoods": "2025-05-11 01:46:50 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/building_blocks/white_wool_from_string": {
+    "criteria": {
+      "has_string": "2025-05-11 02:13:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "bread": "2025-05-11 02:02:07 +0000",
+      "cookie": "2025-05-11 02:16:00 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/decorations/loom": {
+    "criteria": {
+      "has_string": "2025-05-11 02:13:10 +0000"
+    },
+    "done": true
   },
   "biomeswevegone:recipes/transportation/fir_chest_boat": {
     "criteria": {
