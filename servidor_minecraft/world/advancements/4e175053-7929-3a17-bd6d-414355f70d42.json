@@ -714,6 +714,7 @@
     "criteria": {
       "minecraft:pillager": "2025-05-11 01:53:38 +0000",
       "minecraft:skeleton": "2025-05-11 02:42:40 +0000",
+      "minecraft:spider": "2025-05-11 03:08:03 +0000",
       "minecraft:husk": "2025-05-11 02:04:24 +0000",
       "minecraft:zombie": "2025-05-07 03:26:53 +0000"
     },
@@ -2501,6 +2502,7 @@
   },
   "adorabuild_structures:tireless_legs": {
     "criteria": {
+      "acacia_house_small_1": "2025-05-11 03:04:03 +0000",
       "jungle_house_small_1": "2025-05-07 05:07:29 +0000",
       "red_sand_house_small_1": "2025-05-11 02:51:04 +0000"
     },
@@ -3647,9 +3649,13 @@
       "grassy_beach": "2025-05-11 01:46:32 +0000",
       "rocky_meadow": "2025-05-11 02:07:49 +0000",
       "tropical_river": "2025-05-11 02:24:46 +0000",
+      "eucalyptus_forest": "2025-05-11 02:59:45 +0000",
       "magnolia_highlands": "2025-05-11 02:21:35 +0000",
+      "outback": "2025-05-11 03:03:54 +0000",
       "joshua_desert": "2025-05-11 02:23:28 +0000",
+      "sparse_redwoods": "2025-05-11 03:02:58 +0000",
       "bamboo_forest": "2025-05-11 02:10:33 +0000",
+      "saguaro_desert": "2025-05-11 03:08:10 +0000",
       "redwoods": "2025-05-11 01:46:50 +0000"
     },
     "done": false
@@ -3727,9 +3733,13 @@
       "grassy_beach": "2025-05-11 01:46:32 +0000",
       "rocky_meadow": "2025-05-11 02:07:49 +0000",
       "tropical_river": "2025-05-11 02:24:46 +0000",
+      "eucalyptus_forest": "2025-05-11 02:59:45 +0000",
       "magnolia_highlands": "2025-05-11 02:21:35 +0000",
+      "outback": "2025-05-11 03:03:54 +0000",
       "joshua_desert": "2025-05-11 02:23:28 +0000",
+      "sparse_redwoods": "2025-05-11 03:02:58 +0000",
       "bamboo_forest": "2025-05-11 02:10:33 +0000",
+      "saguaro_desert": "2025-05-11 03:08:10 +0000",
       "redwoods": "2025-05-11 01:46:50 +0000"
     },
     "done": false
@@ -3821,6 +3831,12 @@
   "biomeswevegone:recipes/transportation/aspen_chest_boat": {
     "criteria": {
       "has_boat": "2025-05-11 01:44:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_planks": {
+    "criteria": {
+      "has_log": "2025-05-11 03:06:58 +0000"
     },
     "done": true
   },
