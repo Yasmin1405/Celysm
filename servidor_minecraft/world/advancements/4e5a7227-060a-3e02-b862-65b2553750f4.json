@@ -2347,6 +2347,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_sword": "2025-05-11 04:34:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/blue_concrete_powder": {
     "criteria": {
       "has_sand": "2025-05-11 03:12:26 +0000"
@@ -2419,6 +2425,12 @@
     },
     "done": true
   },
+  "1_splatus:ultris/illusioner": {
+    "criteria": {
+      "c1": "2025-05-11 04:37:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/spyglass": {
     "criteria": {
       "has_amethyst_shard": "2025-05-11 02:48:26 +0000"
@@ -2429,6 +2441,7 @@
     "criteria": {
       "minecraft:skeleton": "2025-05-11 02:40:28 +0000",
       "minecraft:spider": "2025-05-11 03:22:07 +0000",
+      "minecraft:husk": "2025-05-11 04:34:07 +0000",
       "minecraft:zombie": "2025-05-11 02:23:58 +0000"
     },
     "done": false
@@ -2544,6 +2557,12 @@
   "biomeswevegone:recipes/building_blocks/sandy_dirt": {
     "criteria": {
       "has_sand": "2025-05-11 03:12:26 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/decorations/sign_post_birch": {
+    "criteria": {
+      "has_the_recipe": "2025-05-11 04:34:23 +0000"
     },
     "done": true
   },
@@ -2947,6 +2966,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_sword": "2025-05-11 04:34:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/brown_concrete_powder": {
     "criteria": {
       "has_sand": "2025-05-11 03:12:26 +0000"
@@ -3010,6 +3035,12 @@
   "farmersdelight:recipes/cooking/vegetable_noodles": {
     "criteria": {
       "has_any_ingredient": "2025-05-11 03:19:00 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/sign_post_birch": {
+    "criteria": {
+      "has_birch_sign": "2025-05-11 04:34:23 +0000"
     },
     "done": true
   },
