@@ -3723,6 +3723,24 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/mushroom_rice": {
+    "criteria": {
+      "has_any_ingredient": "2025-05-18 03:24:38 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/deepslate_viridescent_nylium": {
+    "criteria": {
+      "has_mushroom": "2025-05-18 03:24:38 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/mushroom_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-05-18 03:24:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/leather_chestplate": {
     "criteria": {
       "has_leather": "2025-05-18 02:55:41 +0000"
@@ -3741,6 +3759,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_beef_from_smoking": {
+    "criteria": {
+      "has_beef": "2025-05-18 03:24:39 +0000"
+    },
+    "done": true
+  },
   "hangglider:recipes/tools/glider_wing": {
     "criteria": {
       "has_leather": "2025-05-18 02:55:41 +0000"
@@ -3750,6 +3774,18 @@
   "minecraft:recipes/decorations/item_frame": {
     "criteria": {
       "has_leather": "2025-05-18 02:55:41 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/pasta_with_meatballs": {
+    "criteria": {
+      "has_any_ingredient": "2025-05-18 03:24:39 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/decorations/foragers_table": {
+    "criteria": {
+      "has_mushrooms": "2025-05-18 03:24:38 +0000"
     },
     "done": true
   },
@@ -3765,6 +3801,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_beef": {
+    "criteria": {
+      "has_beef": "2025-05-18 03:24:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/leather_leggings": {
     "criteria": {
       "has_leather": "2025-05-18 02:55:41 +0000"
@@ -3776,6 +3818,12 @@
       "killed_illusioner": "2025-05-18 02:56:04 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/misc/bowl": {
+    "criteria": {
+      "has_brown_mushroom": "2025-05-18 03:24:38 +0000"
+    },
+    "done": true
   },
   "hybrid-aquatic:recipes/combat/diving_boots": {
     "criteria": {
@@ -3798,6 +3846,18 @@
   "travelersbackpack:recipes/misc/blank_upgrade": {
     "criteria": {
       "has_leather": "2025-05-18 02:55:41 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/viridescent_nylium": {
+    "criteria": {
+      "has_mushroom": "2025-05-18 03:24:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef_from_campfire_cooking": {
+    "criteria": {
+      "has_beef": "2025-05-18 03:24:39 +0000"
     },
     "done": true
   },
