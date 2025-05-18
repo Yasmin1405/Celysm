@@ -196,7 +196,9 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:deep_ocean": "2025-05-18 03:48:03 +0000",
       "minecraft:eroded_badlands": "2025-05-11 04:19:51 +0000",
+      "minecraft:frozen_river": "2025-05-18 03:57:14 +0000",
       "minecraft:bamboo_jungle": "2025-05-07 03:46:55 +0000",
       "minecraft:wooded_badlands": "2025-05-11 02:42:20 +0000",
       "minecraft:badlands": "2025-05-11 02:25:35 +0000",
@@ -206,9 +208,15 @@
       "minecraft:river": "2025-05-07 03:36:03 +0000",
       "minecraft:stony_shore": "2025-05-11 01:56:55 +0000",
       "minecraft:dripstone_caves": "2025-05-11 02:58:04 +0000",
+      "minecraft:snowy_taiga": "2025-05-18 03:57:45 +0000",
+      "minecraft:cold_ocean": "2025-05-18 03:52:33 +0000",
       "minecraft:forest": "2025-05-07 03:12:15 +0000",
+      "minecraft:deep_cold_ocean": "2025-05-18 03:52:39 +0000",
+      "minecraft:frozen_ocean": "2025-05-18 03:55:42 +0000",
       "minecraft:desert": "2025-05-11 02:25:07 +0000",
       "minecraft:jungle": "2025-05-11 01:57:51 +0000",
+      "minecraft:ocean": "2025-05-18 03:46:46 +0000",
+      "minecraft:snowy_beach": "2025-05-18 03:57:12 +0000",
       "minecraft:warm_ocean": "2025-05-11 04:23:55 +0000",
       "minecraft:deep_lukewarm_ocean": "2025-05-11 01:54:24 +0000",
       "minecraft:old_growth_birch_forest": "2025-05-11 05:09:01 +0000",
@@ -2651,6 +2659,7 @@
       "biomeswevegone:amaranth_grassland": "2025-05-11 01:49:03 +0000",
       "biomeswevegone:prairie": "2025-05-11 05:06:35 +0000",
       "biomeswevegone:aspen_boreal": "2025-05-11 05:09:21 +0000",
+      "biomeswevegone:dacite_shore": "2025-05-18 03:54:35 +0000",
       "biomeswevegone:dead_sea": "2025-05-11 04:23:17 +0000",
       "biomeswevegone:allium_shrubland": "2025-05-11 05:11:54 +0000",
       "biomeswevegone:tropical_rainforest": "2025-05-11 01:52:15 +0000",
@@ -2677,6 +2686,7 @@
       "bamboo_forest": "2025-05-11 02:10:33 +0000",
       "saguaro_desert": "2025-05-11 03:08:16 +0000",
       "baobab_savanna": "2025-05-11 04:19:53 +0000",
+      "gravel_beach": "2025-05-18 03:54:32 +0000",
       "redwoods": "2025-05-11 01:46:50 +0000",
       "rainforest": "2025-05-11 03:15:36 +0000"
     },
@@ -2701,6 +2711,7 @@
       "bamboo_forest": "2025-05-11 02:10:33 +0000",
       "saguaro_desert": "2025-05-11 03:08:16 +0000",
       "baobab_savanna": "2025-05-11 04:19:53 +0000",
+      "gravel_beach": "2025-05-18 03:54:32 +0000",
       "redwoods": "2025-05-11 01:46:50 +0000",
       "rainforest": "2025-05-11 03:15:36 +0000"
     },
@@ -3765,6 +3776,12 @@
   "hybrid-aquatic:recipes/tools/ominous_hook": {
     "criteria": {
       "has_crab_claw": "2025-05-18 03:38:19 +0000"
+    },
+    "done": true
+  },
+  "mysticsbiomes:mysticsbiomes/root": {
+    "criteria": {
+      "autumnal_grove": "2025-05-18 03:55:25 +0000"
     },
     "done": true
   },
