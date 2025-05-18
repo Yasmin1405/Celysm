@@ -2642,6 +2642,7 @@
       "biomeswevegone:mojave_desert": "2025-05-11 04:23:19 +0000",
       "biomeswevegone:enchanted_tangle": "2025-05-11 01:58:38 +0000",
       "biomeswevegone:temperate_grove": "2025-05-18 03:29:24 +0000",
+      "biomeswevegone:forgotten_forest": "2025-05-18 03:42:19 +0000",
       "biomeswevegone:red_rock_valley": "2025-05-11 04:10:48 +0000",
       "biomeswevegone:firecracker_chaparral": "2025-05-11 02:07:24 +0000",
       "biomeswevegone:lush_stacks": "2025-05-11 01:45:49 +0000",
@@ -2833,6 +2834,7 @@
   },
   "betterdungeons:all_dungeons": {
     "criteria": {
+      "in_better_zombie_dungeon": "2025-05-18 03:40:05 +0000",
       "in_better_spider_dungeon": "2025-05-11 02:33:36 +0000"
     },
     "done": false
@@ -3730,6 +3732,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/statue": {
+    "criteria": {
+      "has_smooth_stone_slab": "2025-05-18 03:41:22 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/building_blocks/deepslate_viridescent_nylium": {
     "criteria": {
       "has_mushroom": "2025-05-18 03:24:38 +0000"
@@ -3748,9 +3756,27 @@
     },
     "done": true
   },
+  "hybrid-aquatic:crab_claw": {
+    "criteria": {
+      "has_crab_claw": "2025-05-18 03:38:19 +0000"
+    },
+    "done": true
+  },
+  "hybrid-aquatic:recipes/tools/ominous_hook": {
+    "criteria": {
+      "has_crab_claw": "2025-05-18 03:38:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/leather_horse_armor": {
     "criteria": {
       "has_leather": "2025-05-18 02:55:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_stairs_from_polished_andesite_stonecutting": {
+    "criteria": {
+      "has_polished_andesite": "2025-05-18 03:41:24 +0000"
     },
     "done": true
   },
@@ -3796,9 +3822,33 @@
     },
     "done": true
   },
+  "betterdungeons:zombie_dungeon": {
+    "criteria": {
+      "in_better_zombie_dungeon": "2025-05-18 03:40:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_slab": {
+    "criteria": {
+      "has_polished_andesite": "2025-05-18 03:41:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/armor_stand": {
+    "criteria": {
+      "has_stone_slab": "2025-05-18 03:41:22 +0000"
+    },
+    "done": true
+  },
   "biomeswevegone:recipes/decorations/foragers_table": {
     "criteria": {
       "has_mushrooms": "2025-05-18 03:24:38 +0000"
+    },
+    "done": true
+  },
+  "hybrid-aquatic:recipes/food/raw_crab": {
+    "criteria": {
+      "has_crab_claw": "2025-05-18 03:38:19 +0000"
     },
     "done": true
   },
@@ -3886,6 +3936,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_andesite_stairs": {
+    "criteria": {
+      "has_polished_andesite": "2025-05-18 03:41:24 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/misc/blank_upgrade": {
     "criteria": {
       "has_leather": "2025-05-18 02:55:41 +0000"
@@ -3895,6 +3951,12 @@
   "regions_unexplored:recipes/building_blocks/viridescent_nylium": {
     "criteria": {
       "has_mushroom": "2025-05-18 03:24:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_slab_from_polished_andesite_stonecutting": {
+    "criteria": {
+      "has_polished_andesite": "2025-05-18 03:41:24 +0000"
     },
     "done": true
   },
