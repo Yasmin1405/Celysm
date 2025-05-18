@@ -2641,6 +2641,7 @@
       "biomeswevegone:crag_gardens": "2025-05-11 01:46:54 +0000",
       "biomeswevegone:mojave_desert": "2025-05-11 04:23:19 +0000",
       "biomeswevegone:enchanted_tangle": "2025-05-11 01:58:38 +0000",
+      "biomeswevegone:temperate_grove": "2025-05-18 03:29:24 +0000",
       "biomeswevegone:red_rock_valley": "2025-05-11 04:10:48 +0000",
       "biomeswevegone:firecracker_chaparral": "2025-05-11 02:07:24 +0000",
       "biomeswevegone:lush_stacks": "2025-05-11 01:45:49 +0000",
@@ -3759,6 +3760,18 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/kelp_roll": {
+    "criteria": {
+      "has_dried_kelp": "2025-05-18 03:33:23 +0000"
+    },
+    "done": true
+  },
+  "bakery:recipes/crafting_bowl": {
+    "criteria": {
+      "has_dried_kelp": "2025-05-18 03:33:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_beef_from_smoking": {
     "criteria": {
       "has_beef": "2025-05-18 03:24:39 +0000"
@@ -3825,6 +3838,18 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/noodle_soup": {
+    "criteria": {
+      "has_any_ingredient": "2025-05-18 03:33:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/glow_item_frame": {
+    "criteria": {
+      "has_item_frame": "2025-05-18 03:33:42 +0000"
+    },
+    "done": true
+  },
   "hybrid-aquatic:recipes/combat/diving_boots": {
     "criteria": {
       "has_leather": "2025-05-18 02:55:41 +0000"
@@ -3837,9 +3862,27 @@
     },
     "done": true
   },
+  "iammusicplayer:recipes/misc/cassette_tape_glass": {
+    "criteria": {
+      "has_dried_kelp": "2025-05-18 03:33:23 +0000"
+    },
+    "done": true
+  },
+  "iammusicplayer:recipes/misc/cassette_tape": {
+    "criteria": {
+      "has_dried_kelp": "2025-05-18 03:33:23 +0000"
+    },
+    "done": true
+  },
   "friendsandfoes:adventure/kill_illusioner": {
     "criteria": {
       "killed_illusioner": "2025-05-18 02:56:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dried_kelp_block": {
+    "criteria": {
+      "has_dried_kelp": "2025-05-18 03:33:23 +0000"
     },
     "done": true
   },

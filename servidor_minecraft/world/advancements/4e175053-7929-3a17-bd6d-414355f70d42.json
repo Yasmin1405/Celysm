@@ -3285,6 +3285,7 @@
       "biomeswevegone:crag_gardens": "2025-05-11 01:46:54 +0000",
       "biomeswevegone:mojave_desert": "2025-05-11 04:23:20 +0000",
       "biomeswevegone:enchanted_tangle": "2025-05-11 01:58:40 +0000",
+      "biomeswevegone:temperate_grove": "2025-05-18 03:29:43 +0000",
       "biomeswevegone:red_rock_valley": "2025-05-11 04:10:49 +0000",
       "biomeswevegone:firecracker_chaparral": "2025-05-11 02:06:23 +0000",
       "biomeswevegone:lush_stacks": "2025-05-11 01:45:50 +0000",
@@ -4424,6 +4425,204 @@
   "minecraft:recipes/misc/gold_ingot_from_gold_block": {
     "criteria": {
       "has_gold_block": "2025-05-11 05:20:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_button": {
+    "criteria": {
+      "has_planks": "2025-05-18 03:32:24 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/soap": {
+    "criteria": {
+      "has_water_bucket": "2025-05-18 03:34:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_door": {
+    "criteria": {
+      "has_planks": "2025-05-18 03:32:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/birch_fence": {
+    "criteria": {
+      "has_planks": "2025-05-18 03:32:24 +0000"
+    },
+    "done": true
+  },
+  "bakery:recipes/butter": {
+    "criteria": {
+      "has_water_bucket": "2025-05-18 03:34:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/birch_sign": {
+    "criteria": {
+      "has_planks": "2025-05-18 03:32:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/lightning_rod": {
+    "criteria": {
+      "has_copper_ingot": "2025-05-18 03:31:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_wood": {
+    "criteria": {
+      "has_log": "2025-05-18 03:32:22 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/cog_block": {
+    "criteria": {
+      "has_copper_ingot": "2025-05-18 03:31:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-05-18 03:32:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_slab": {
+    "criteria": {
+      "has_planks": "2025-05-18 03:32:24 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/wrench": {
+    "criteria": {
+      "has_copper_ingot": "2025-05-18 03:31:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_stairs": {
+    "criteria": {
+      "has_planks": "2025-05-18 03:32:24 +0000"
+    },
+    "done": true
+  },
+  "hamsters:recipes/hamster_wheel": {
+    "criteria": {
+      "has_copper_ingot": "2025-05-18 03:31:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/copper_block": {
+    "criteria": {
+      "has_copper_ingot": "2025-05-18 03:31:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:plushables/got_copper_ingot": {
+    "criteria": {
+      "got_copper_ingot": "2025-05-18 03:31:40 +0000"
+    },
+    "done": true
+  },
+  "hybrid-aquatic:recipes/combat/diving_helmet": {
+    "criteria": {
+      "has_copper": "2025-05-18 03:31:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/brush": {
+    "criteria": {
+      "has_copper_ingot": "2025-05-18 03:31:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_planks": {
+    "criteria": {
+      "has_logs": "2025-05-18 03:32:22 +0000"
+    },
+    "done": true
+  },
+  "bakery:recipes/yeast": {
+    "criteria": {
+      "has_the_recipe": "2025-05-18 03:34:21 +0000"
+    },
+    "done": true
+  },
+  "immersive_melodies:misc/instruments": {
+    "criteria": {
+      "has_item": "2025-05-18 03:31:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/cauldron": {
+    "criteria": {
+      "has_water_bucket": "2025-05-18 03:34:21 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/birch_rail_bridge": {
+    "criteria": {
+      "has_planks": "2025-05-18 03:32:24 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/birch_bridge_pier": {
+    "criteria": {
+      "has_planks": "2025-05-18 03:32:22 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/birch_log_bridge_middle": {
+    "criteria": {
+      "has_planks": "2025-05-18 03:32:24 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/birch_branch_from_birch_log": {
+    "criteria": {
+      "has_log": "2025-05-18 03:32:22 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/altimeter": {
+    "criteria": {
+      "has_copper_ingot": "2025-05-18 03:31:40 +0000"
+    },
+    "done": true
+  },
+  "friendsandfoes:recipes/redstone/copper_button": {
+    "criteria": {
+      "has_copper_ingot": "2025-05-18 03:31:40 +0000"
+    },
+    "done": true
+  },
+  "farm_and_charm:recipes/copper_silo": {
+    "criteria": {
+      "has_copper_ingot": "2025-05-18 03:31:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-05-18 03:32:24 +0000"
+    },
+    "done": true
+  },
+  "artifacts:amateur_archaeologist": {
+    "criteria": {
+      "find_artifact": "2025-05-18 03:28:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-05-18 03:32:24 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/rope_birch_bridge": {
+    "criteria": {
+      "has_planks": "2025-05-18 03:32:24 +0000"
     },
     "done": true
   },
